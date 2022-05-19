@@ -1,2 +1,25 @@
 module,url,title
 LWP,https://lwp.interglacial.com/,Perl & LWP
+Data::Password::zxcvbn,https://perladvent.org/2019/2019-12-01.html,J1ngle? No...zxcvbn
+WebService::HIBP,https://perladvent.org/2019/2019-12-02.html,Have Elf Been Pwned?
+Authen::OATH,https://perladvent.org/2019/2019-12-03.html,Two Factor Elfication
+FFI::Platypus,https://perladvent.org/2019/2019-12-04.html,Going for Perl
+DarkSky::API,https://perladvent.org/2019/2019-12-06.html,The Weather Outside Is Frightful
+Mo,https://perladvent.org/2019/2019-12-07.html,Show Me Mo'
+PerlIO::zip,https://perladvent.org/2019/2019-12-08.html,Christmas Movie Time!
+Net::EmptyPort,https://perladvent.org/2019/2019-12-09.html,Command Line Browser Apps
+Mojo::AsyncAwait,https://perladvent.org/2019/2019-12-10.html,Awaiting Christmas
+Mojo::Transaction::Websocket,https://perladvent.org/2019/2019-12-11.html,Now With Added Interactivity
+GUIDeFATE,https://perladvent.org/2019/2019-12-12.html,Now With Added Interactivity
+HTTP::Message::PSGI,https://perladvent.org/2019/2019-12-13.html,Draft Solution
+GD,https://perladvent.org/2019/2019-12-14.html,Animated GIFs
+AWS::Lambda::Quick,https://perladvent.org/2019/2019-12-15.html,Suddenly Serverless
+Paws,https://perladvent.org/2019/2019-12-16.html,Paws to Plan What Todo
+AWS::Lambda::PSGI,https://perladvent.org/2019/2019-12-17.html,Taking the Sleigh to a CloudFront
+Module::CoreList,https://perladvent.org/2019/2019-12-18.html,Core Strength
+Memoize::Expire,https://perladvent.org/2019/2019-12-19.html,Memories of Past Lives
+iTerm and Perl,https://perladvent.org/2019/2019-12-20.html,Controlling your Terminal with Perl
+Test2::V0,https://perladvent.org/2019/2019-12-21.html,Test2: Test Harder (but easier)
+Test2::Compare::Base,https://perladvent.org/2019/2019-12-22.html,Comparing More
+App::yath,https://perladvent.org/2019/2019-12-23.html,Testing our Impatience
+Imager,https://perladvent.org/2019/2019-12-24.html,We Wish You a Meme Christmas
