@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+
+use 5.34.0;
+use warnings;
+
+use JSON;
+
+my $out = 'docs/tutorials.csv';
+
+open my $csv, '<', 'tutorials.csv' or die $!;
+
+<$csv>; # Skip header
+
+my $data;
+while (<$csv>) {
+  chomp;
+  my ($module, $url, $title) = split /,/;
+
+  push @{ $data->{$module} }, {
+    url => $url,
+    title => $title,
+  };
+}
+
+my $json = JSON->new->pretty(1)->encode($data);
+
+open my $json_fh, '>', $out;
+
+print $json_fh $json;
+
