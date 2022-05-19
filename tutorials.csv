@@ -6,44 +6,41 @@ Authen-OATH,https://perladvent.org/2019/2019-12-03.html,Two Factor Elfication
 FFI-Platypus,https://perladvent.org/2019/2019-12-04.html,Going for Perl
 DarkSky-API,https://perladvent.org/2019/2019-12-06.html,The Weather Outside Is Frightful
 Mo,https://perladvent.org/2019/2019-12-07.html,Show Me Mo'
-PerlIO-zip,https://perladvent.org/2019/2019-12-08.html,Christmas Movie Time!
-Net-EmptyPort,https://perladvent.org/2019/2019-12-09.html,Command Line Browser Apps
+PerlIO-gzip,https://perladvent.org/2019/2019-12-08.html,Christmas Movie Time!
+Test-TCP,https://perladvent.org/2019/2019-12-09.html,Command Line Browser Apps
 Mojo-AsyncAwait,https://perladvent.org/2019/2019-12-10.html,Awaiting Christmas
-Mojo-Transaction-Websocket,https://perladvent.org/2019/2019-12-11.html,Now With Added Interactivity
+Mojolicious,https://perladvent.org/2019/2019-12-11.html,Now With Added Interactivity
 GUIDeFATE,https://perladvent.org/2019/2019-12-12.html,Now With Added Interactivity
-HTTP-Message-PSGI,https://perladvent.org/2019/2019-12-13.html,Draft Solution
+Plack,https://perladvent.org/2019/2019-12-13.html,Draft Solution
 GD,https://perladvent.org/2019/2019-12-14.html,Animated GIFs
 AWS-Lambda-Quick,https://perladvent.org/2019/2019-12-15.html,Suddenly Serverless
 Paws,https://perladvent.org/2019/2019-12-16.html,Paws to Plan What Todo
-AWS-Lambda-PSGI,https://perladvent.org/2019/2019-12-17.html,Taking the Sleigh to a CloudFront
+AWS-Lambda,https://perladvent.org/2019/2019-12-17.html,Taking the Sleigh to a CloudFront
 Module-CoreList,https://perladvent.org/2019/2019-12-18.html,Core Strength
-Memoize-Expire,https://perladvent.org/2019/2019-12-19.html,Memories of Past Lives
-iTerm and Perl,https://perladvent.org/2019/2019-12-20.html,Controlling your Terminal with Perl
-Test2-V0,https://perladvent.org/2019/2019-12-21.html,Test2: Test Harder (but easier)
-Test2-Compare-Base,https://perladvent.org/2019/2019-12-22.html,Comparing More
-App-yath,https://perladvent.org/2019/2019-12-23.html,Testing our Impatience
+Memoize,https://perladvent.org/2019/2019-12-19.html,Memories of Past Lives
+Test2-Suite,https://perladvent.org/2019/2019-12-21.html,Test2: Test Harder (but easier)
+Test2-Suite,https://perladvent.org/2019/2019-12-22.html,Comparing More
+Test2-Harness,https://perladvent.org/2019/2019-12-23.html,Testing our Impatience
 Imager,https://perladvent.org/2019/2019-12-24.html,We Wish You a Meme Christmas
 Calendar-List,https://perladvent.org/2018/2018-12-01.html,Sign o' The Times
-WebPerl,https://perladvent.org/2018/2018-12-02.html,Perl in the Browser
-Cpanel-JSON-XS-Type,https://perladvent.org/2018/2018-12-03.html,REST API and the Baby
-B-perlstring,https://perladvent.org/2018/2018-12-04.html,Christmas Quoting
+Cpanel-JSON-XS,https://perladvent.org/2018/2018-12-03.html,REST API and the Baby
+B,https://perladvent.org/2018/2018-12-04.html,Christmas Quoting
 Data-Rmap,https://perladvent.org/2018/2018-12-05.html,Data-Rmap - Santa's deepdive in an ocean of stockings.
-Array-Sticky-INC,https://perladvent.org/2018/2018-12-06.html,Sticky Delight
+Array-Sticky,https://perladvent.org/2018/2018-12-06.html,Sticky Delight
 Text-CSV-Pivot,https://perladvent.org/2018/2018-12-07.html,Convert CSV to Pivot Table
 DBD-MariaDB,https://perladvent.org/2018/2018-12-08.html,DBD-mysql versus DBD-MariaDB
-App-Sigfix,https://perladvent.org/2018/2018-12-09.html,The Fix Is In
+Babble,https://perladvent.org/2018/2018-12-09.html,The Fix Is In
 Babble,https://perladvent.org/2018/2018-12-10.html,Christmas Tree Babbles
 Mu,https://perladvent.org/2018/2018-12-11.html,Mu
 SVG,https://perladvent.org/2018/2018-12-12.html,Growing Christmas Trees
 Sub-Params,https://perladvent.org/2018/2018-12-13.html,Lost in legacy arguments
-Future-based interfaces,https://perladvent.org/2018/2018-12-14.html,The future is now
 App-ccdiff,https://perladvent.org/2018/2018-12-15.html,Spot The Difference
 Hash-Flatten,https://perladvent.org/2018/2018-12-16.html,Handling complex data structures
-OAuth-CmdLine-Spotify,https://perladvent.org/2018/2018-12-17.html,Christmas Tunes!
+OAuth-CmdLine,https://perladvent.org/2018/2018-12-17.html,Christmas Tunes!
 Test-Excel,https://perladvent.org/2018/2018-12-18.html,Test/Compare Your Excel
-Mojo-Promise,https://perladvent.org/2018/2018-12-19.html,Cute Christmas Animals
-iSH,https://perladvent.org/2018/2018-12-20.html,Christmas-iSH
+Mojolicious,https://perladvent.org/2018/2018-12-19.html,Cute Christmas Animals
 Devel-hdb,https://perladvent.org/2018/2018-12-21.html,Debug Hard
 Method-ParamValidator,https://perladvent.org/2018/2018-12-22.html,Validation
 Context-Singleton,https://perladvent.org/2018/2018-12-23.html,Legacy code strikes again
-App-HTTPThis and App-HTTPSThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
+App-HTTPThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
+App-HTTPSThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
