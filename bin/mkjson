@@ -5,7 +5,7 @@ use warnings;
 
 use JSON;
 
-my $out = 'docs/tutorials.csv';
+my $out = 'docs/tutorials.json';
 
 open my $csv, '<', 'tutorials.csv' or die $!;
 
