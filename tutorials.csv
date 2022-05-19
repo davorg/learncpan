@@ -1,4 +1,4 @@
-module,url,title
+distribution,url,title
 LWP,https://lwp.interglacial.com/,Perl & LWP
 Data-Password-zxcvbn,https://perladvent.org/2019/2019-12-01.html,J1ngle? No...zxcvbn
 WebService-HIBP,https://perladvent.org/2019/2019-12-02.html,Have Elf Been Pwned?
