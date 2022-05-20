@@ -1,212 +1,8 @@
 {
-   "Calendar-List" : [
-      {
-         "title" : "Sign o' The Times",
-         "url" : "https://perladvent.org/2018/2018-12-01.html"
-      }
-   ],
-   "Test2-Harness" : [
-      {
-         "title" : "Testing our Impatience",
-         "url" : "https://perladvent.org/2019/2019-12-23.html"
-      }
-   ],
-   "Paws" : [
-      {
-         "title" : "Paws to Plan What Todo",
-         "url" : "https://perladvent.org/2019/2019-12-16.html"
-      }
-   ],
-   "Mo" : [
-      {
-         "title" : "Show Me Mo'",
-         "url" : "https://perladvent.org/2019/2019-12-07.html"
-      }
-   ],
-   "Test2-Suite" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-21.html",
-         "title" : "Test2: Test Harder (but easier)"
-      },
-      {
-         "url" : "https://perladvent.org/2019/2019-12-22.html",
-         "title" : "Comparing More"
-      }
-   ],
-   "Data-Password-zxcvbn" : [
-      {
-         "title" : "J1ngle? No...zxcvbn",
-         "url" : "https://perladvent.org/2019/2019-12-01.html"
-      }
-   ],
-   "Data-Rmap" : [
-      {
-         "title" : "Data-Rmap - Santa's deepdive in an ocean of stockings.",
-         "url" : "https://perladvent.org/2018/2018-12-05.html"
-      }
-   ],
-   "Cpanel-JSON-XS" : [
-      {
-         "title" : "REST API and the Baby",
-         "url" : "https://perladvent.org/2018/2018-12-03.html"
-      }
-   ],
-   "Test-TCP" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-09.html",
-         "title" : "Command Line Browser Apps"
-      }
-   ],
-   "Imager" : [
-      {
-         "title" : "We Wish You a Meme Christmas",
-         "url" : "https://perladvent.org/2019/2019-12-24.html"
-      }
-   ],
-   "Method-ParamValidator" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-22.html",
-         "title" : "Validation"
-      }
-   ],
    "Hash-Flatten" : [
       {
          "title" : "Handling complex data structures",
          "url" : "https://perladvent.org/2018/2018-12-16.html"
-      }
-   ],
-   "Devel-hdb" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-21.html",
-         "title" : "Debug Hard"
-      }
-   ],
-   "GUIDeFATE" : [
-      {
-         "title" : "Now With Added Interactivity",
-         "url" : "https://perladvent.org/2019/2019-12-12.html"
-      }
-   ],
-   "Sub-Params" : [
-      {
-         "title" : "Lost in legacy arguments",
-         "url" : "https://perladvent.org/2018/2018-12-13.html"
-      }
-   ],
-   "Mojolicious" : [
-      {
-         "title" : "Now With Added Interactivity",
-         "url" : "https://perladvent.org/2019/2019-12-11.html"
-      },
-      {
-         "url" : "https://perladvent.org/2018/2018-12-19.html",
-         "title" : "Cute Christmas Animals"
-      }
-   ],
-   "B" : [
-      {
-         "title" : "Christmas Quoting",
-         "url" : "https://perladvent.org/2018/2018-12-04.html"
-      }
-   ],
-   "SVG" : [
-      {
-         "title" : "Growing Christmas Trees",
-         "url" : "https://perladvent.org/2018/2018-12-12.html"
-      }
-   ],
-   "WebService-HIBP" : [
-      {
-         "title" : "Have Elf Been Pwned?",
-         "url" : "https://perladvent.org/2019/2019-12-02.html"
-      }
-   ],
-   "AWS-Lambda" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-17.html",
-         "title" : "Taking the Sleigh to a CloudFront"
-      }
-   ],
-   "PerlIO-gzip" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-08.html",
-         "title" : "Christmas Movie Time!"
-      }
-   ],
-   "Module-CoreList" : [
-      {
-         "title" : "Core Strength",
-         "url" : "https://perladvent.org/2019/2019-12-18.html"
-      }
-   ],
-   "DarkSky-API" : [
-      {
-         "title" : "The Weather Outside Is Frightful",
-         "url" : "https://perladvent.org/2019/2019-12-06.html"
-      }
-   ],
-   "Authen-OATH" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-03.html",
-         "title" : "Two Factor Elfication"
-      }
-   ],
-   "App-HTTPThis" : [
-      {
-         "title" : "Watching The Perl Conference Again",
-         "url" : "https://perladvent.org/2018/2018-12-24.html"
-      }
-   ],
-   "AWS-Lambda-Quick" : [
-      {
-         "title" : "Suddenly Serverless",
-         "url" : "https://perladvent.org/2019/2019-12-15.html"
-      }
-   ],
-   "FFI-Platypus" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-04.html",
-         "title" : "Going for Perl"
-      }
-   ],
-   "Babble" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-09.html",
-         "title" : "The Fix Is In"
-      },
-      {
-         "url" : "https://perladvent.org/2018/2018-12-10.html",
-         "title" : "Christmas Tree Babbles"
-      }
-   ],
-   "Context-Singleton" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-23.html",
-         "title" : "Legacy code strikes again"
-      }
-   ],
-   "DBD-MariaDB" : [
-      {
-         "title" : "DBD-mysql versus DBD-MariaDB",
-         "url" : "https://perladvent.org/2018/2018-12-08.html"
-      }
-   ],
-   "Test-More" : [
-      {
-         "url" : "https://www.perlmonks.org/?node_id=11106010",
-         "title" : "Basic Testing Tutorial"
-      }
-   ],
-   "Array-Sticky" : [
-      {
-         "title" : "Sticky Delight",
-         "url" : "https://perladvent.org/2018/2018-12-06.html"
-      }
-   ],
-   "Plack" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-13.html",
-         "title" : "Draft Solution"
       }
    ],
    "Mu" : [
@@ -215,28 +11,134 @@
          "title" : "Mu"
       }
    ],
+   "Mo" : [
+      {
+         "title" : "Show Me Mo'",
+         "url" : "https://perladvent.org/2019/2019-12-07.html"
+      }
+   ],
+   "Mojolicious" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-11.html",
+         "title" : "Now With Added Interactivity"
+      },
+      {
+         "url" : "https://perladvent.org/2018/2018-12-19.html",
+         "title" : "Cute Christmas Animals"
+      }
+   ],
+   "B" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-04.html",
+         "title" : "Christmas Quoting"
+      }
+   ],
+   "AWS-Lambda-Quick" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-15.html",
+         "title" : "Suddenly Serverless"
+      }
+   ],
+   "DarkSky-API" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-06.html",
+         "title" : "The Weather Outside Is Frightful"
+      }
+   ],
    "LWP" : [
       {
-         "title" : "Perl & LWP",
-         "url" : "https://lwp.interglacial.com/"
+         "url" : "https://lwp.interglacial.com/",
+         "title" : "Perl & LWP"
       }
    ],
-   "Mojo-AsyncAwait" : [
+   "Test-More" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-10.html",
-         "title" : "Awaiting Christmas"
+         "title" : "Basic Testing Tutorial",
+         "url" : "https://www.perlmonks.org/?node_id=11106010"
       }
    ],
-   "Test-Excel" : [
+   "Sub-Params" : [
       {
-         "url" : "https://perladvent.org/2018/2018-12-18.html",
-         "title" : "Test/Compare Your Excel"
+         "title" : "Lost in legacy arguments",
+         "url" : "https://perladvent.org/2018/2018-12-13.html"
+      }
+   ],
+   "GUIDeFATE" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-12.html",
+         "title" : "Now With Added Interactivity"
+      }
+   ],
+   "AWS-Lambda" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-17.html",
+         "title" : "Taking the Sleigh to a CloudFront"
+      }
+   ],
+   "Module-CoreList" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-18.html",
+         "title" : "Core Strength"
+      }
+   ],
+   "Plack" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-13.html",
+         "title" : "Draft Solution"
+      }
+   ],
+   "SVG" : [
+      {
+         "title" : "Growing Christmas Trees",
+         "url" : "https://perladvent.org/2018/2018-12-12.html"
+      }
+   ],
+   "FFI-Platypus" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-04.html",
+         "title" : "Going for Perl"
+      }
+   ],
+   "Context-Singleton" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-23.html",
+         "title" : "Legacy code strikes again"
+      }
+   ],
+   "Array-Sticky" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-06.html",
+         "title" : "Sticky Delight"
+      }
+   ],
+   "Paws" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-16.html",
+         "title" : "Paws to Plan What Todo"
       }
    ],
    "OAuth-CmdLine" : [
       {
-         "title" : "Christmas Tunes!",
-         "url" : "https://perladvent.org/2018/2018-12-17.html"
+         "url" : "https://perladvent.org/2018/2018-12-17.html",
+         "title" : "Christmas Tunes!"
+      }
+   ],
+   "Calendar-List" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-01.html",
+         "title" : "Sign o' The Times"
+      }
+   ],
+   "Method-ParamValidator" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-22.html",
+         "title" : "Validation"
+      }
+   ],
+   "Data-Password-zxcvbn" : [
+      {
+         "title" : "J1ngle? No...zxcvbn",
+         "url" : "https://perladvent.org/2019/2019-12-01.html"
       }
    ],
    "Memoize" : [
@@ -245,22 +147,48 @@
          "url" : "https://perladvent.org/2019/2019-12-19.html"
       }
    ],
-   "GD" : [
+   "Test2-Suite" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-14.html",
-         "title" : "Animated GIFs"
+         "url" : "https://perladvent.org/2019/2019-12-21.html",
+         "title" : "Test2: Test Harder (but easier)"
+      },
+      {
+         "title" : "Comparing More",
+         "url" : "https://perladvent.org/2019/2019-12-22.html"
+      }
+   ],
+   "PerlIO-gzip" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-08.html",
+         "title" : "Christmas Movie Time!"
       }
    ],
    "Text-CSV-Pivot" : [
       {
-         "title" : "Convert CSV to Pivot Table",
-         "url" : "https://perladvent.org/2018/2018-12-07.html"
+         "url" : "https://perladvent.org/2018/2018-12-07.html",
+         "title" : "Convert CSV to Pivot Table"
       }
    ],
-   "App-HTTPSThis" : [
+   "Babble" : [
       {
-         "url" : "https://perladvent.org/2018/2018-12-24.html",
-         "title" : "Watching The Perl Conference Again"
+         "url" : "https://perladvent.org/2018/2018-12-09.html",
+         "title" : "The Fix Is In"
+      },
+      {
+         "title" : "Christmas Tree Babbles",
+         "url" : "https://perladvent.org/2018/2018-12-10.html"
+      }
+   ],
+   "Data-Rmap" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-05.html",
+         "title" : "Data-Rmap - Santa's deepdive in an ocean of stockings."
+      }
+   ],
+   "GD" : [
+      {
+         "title" : "Animated GIFs",
+         "url" : "https://perladvent.org/2019/2019-12-14.html"
       }
    ],
    "App-ccdiff" : [
@@ -269,10 +197,82 @@
          "url" : "https://perladvent.org/2018/2018-12-15.html"
       }
    ],
+   "App-HTTPSThis" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-24.html",
+         "title" : "Watching The Perl Conference Again"
+      }
+   ],
+   "Devel-hdb" : [
+      {
+         "title" : "Debug Hard",
+         "url" : "https://perladvent.org/2018/2018-12-21.html"
+      }
+   ],
    "Test-Simple" : [
       {
          "title" : "Basic Testing Tutorial",
          "url" : "https://www.perlmonks.org/?node_id=11106010"
+      }
+   ],
+   "Mojo-AsyncAwait" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-10.html",
+         "title" : "Awaiting Christmas"
+      }
+   ],
+   "Test-TCP" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-09.html",
+         "title" : "Command Line Browser Apps"
+      }
+   ],
+   "App-HTTPThis" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-24.html",
+         "title" : "Watching The Perl Conference Again"
+      }
+   ],
+   "Cpanel-JSON-XS" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-03.html",
+         "title" : "REST API and the Baby"
+      }
+   ],
+   "WebService-HIBP" : [
+      {
+         "title" : "Have Elf Been Pwned?",
+         "url" : "https://perladvent.org/2019/2019-12-02.html"
+      }
+   ],
+   "DBD-MariaDB" : [
+      {
+         "title" : "DBD-mysql versus DBD-MariaDB",
+         "url" : "https://perladvent.org/2018/2018-12-08.html"
+      }
+   ],
+   "Authen-OATH" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-03.html",
+         "title" : "Two Factor Elfication"
+      }
+   ],
+   "Test2-Harness" : [
+      {
+         "title" : "Testing our Impatience",
+         "url" : "https://perladvent.org/2019/2019-12-23.html"
+      }
+   ],
+   "Test-Excel" : [
+      {
+         "title" : "Test/Compare Your Excel",
+         "url" : "https://perladvent.org/2018/2018-12-18.html"
+      }
+   ],
+   "Imager" : [
+      {
+         "title" : "We Wish You a Meme Christmas",
+         "url" : "https://perladvent.org/2019/2019-12-24.html"
       }
    ]
 }
