@@ -45,3 +45,5 @@ Context-Singleton,https://perladvent.org/2018/2018-12-23.html,Legacy code strike
 App-HTTPThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
 App-HTTPSThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
 Test-Simple,https://www.perlmonks.org/?node_id=11106010,Basic Testing Tutorial
+Net-AMQP-RabbitMQ,https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl,RabbitMQ-Tutorial-Perl
+  
