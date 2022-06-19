@@ -46,14 +46,14 @@ App-HTTPThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Confe
 App-HTTPSThis,https://perladvent.org/2018/2018-12-24.html,Watching The Perl Conference Again
 Test-Simple,https://www.perlmonks.org/?node_id=11106010,Basic Testing Tutorial
 Net-AMQP-RabbitMQ,https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl,RabbitMQ-Tutorial-Perl
-App-perlvars|https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/|Finding Unused Perl Variables
-Code-TidyAll-Plugin-Test-Vars|https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/|Finding Unused Perl Variables
-Dist-Zilla-Plugin-Test-TidyAll|https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/|Finding Unused Perl Variables
-Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter|https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/|Finding Unused Perl Variables
-Test-Vars|https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/|Finding Unused Perl Variables
-Open-This|https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/|Opening Files Quickly from Inside vim
-LWP-ConsoleLogger|https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/|Observing Network Traffic with LWP::ConsoleLogger::Everywhere
-lazy|https://www.olafalders.com/2018/08/21/how-lazy-am-i/|How lazy am I?
-WWW-Mechanize|https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/|WWW::Mechanize Best Practices
-URI|https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/|Don't Forget about URI::Heuristic
-CLDR-Number|https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/|Stop Writing Your Own Commify Functions
+App-perlvars,https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/,Finding Unused Perl Variables
+Code-TidyAll-Plugin-Test-Vars,https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/,Finding Unused Perl Variables
+Dist-Zilla-Plugin-Test-TidyAll,https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/,Finding Unused Perl Variables
+Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter,https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/,Finding Unused Perl Variables
+Test-Vars,https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/,Finding Unused Perl Variables
+Open-This,https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/,Opening Files Quickly from Inside vim
+LWP-ConsoleLogger,https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/,Observing Network Traffic with LWP::ConsoleLogger::Everywhere
+lazy,https://www.olafalders.com/2018/08/21/how-lazy-am-i/,How lazy am I?
+WWW-Mechanize,https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/,WWW::Mechanize Best Practices
+URI,https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/,Don't Forget about URI::Heuristic
+CLDR-Number,https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/,Stop Writing Your Own Commify Functions
