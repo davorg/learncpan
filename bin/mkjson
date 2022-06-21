@@ -14,7 +14,7 @@ open my $csv, '<', 'tutorials.csv' or die $!;
 my $data;
 while (<$csv>) {
   chomp;
-  my ($module, $url, $title) = split /,/;
+  my ($module, $url, $title) = split /,/, $_, 3;
 
   push @{ $data->{$module} }, {
     url => $url,
