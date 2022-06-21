@@ -1,78 +1,24 @@
 {
-   "Mojo-AsyncAwait" : [
+   "Babble" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-10.html",
-         "title" : "Awaiting Christmas"
-      }
-   ],
-   "Hash-Flatten" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-16.html",
-         "title" : "Handling complex data structures"
-      }
-   ],
-   "App-HTTPSThis" : [
-      {
-         "title" : "Watching The Perl Conference Again",
-         "url" : "https://perladvent.org/2018/2018-12-24.html"
-      }
-   ],
-   "Test-Vars" : [
-      {
-         "title" : "Finding Unused Perl Variables",
-         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
-      }
-   ],
-   "Memoize" : [
-      {
-         "title" : "Memories of Past Lives",
-         "url" : "https://perladvent.org/2019/2019-12-19.html"
-      }
-   ],
-   "Module-CoreList" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-18.html",
-         "title" : "Core Strength"
-      }
-   ],
-   "Test-Excel" : [
-      {
-         "title" : "Test/Compare Your Excel",
-         "url" : "https://perladvent.org/2018/2018-12-18.html"
-      }
-   ],
-   "Method-ParamValidator" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-22.html",
-         "title" : "Validation"
-      }
-   ],
-   "Cpanel-JSON-XS" : [
-      {
-         "title" : "REST API and the Baby",
-         "url" : "https://perladvent.org/2018/2018-12-03.html"
-      }
-   ],
-   "Test2-Suite" : [
-      {
-         "title" : "Test2: Test Harder (but easier)",
-         "url" : "https://perladvent.org/2019/2019-12-21.html"
+         "url" : "https://perladvent.org/2018/2018-12-09.html",
+         "title" : "The Fix Is In"
       },
       {
-         "url" : "https://perladvent.org/2019/2019-12-22.html",
-         "title" : "Comparing More"
+         "url" : "https://perladvent.org/2018/2018-12-10.html",
+         "title" : "Christmas Tree Babbles"
       }
    ],
-   "CLDR-Number" : [
+   "LWP-ConsoleLogger" : [
       {
-         "url" : "https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/",
-         "title" : "Stop Writing Your Own Commify Functions"
+         "url" : "https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/",
+         "title" : "Observing Network Traffic with LWP::ConsoleLogger::Everywhere"
       }
    ],
-   "Sub-Params" : [
+   "Open-This" : [
       {
-         "title" : "Lost in legacy arguments",
-         "url" : "https://perladvent.org/2018/2018-12-13.html"
+         "url" : "https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/",
+         "title" : "Opening Files Quickly from Inside vim"
       }
    ],
    "Code-TidyAll-Plugin-Test-Vars" : [
@@ -81,10 +27,68 @@
          "title" : "Finding Unused Perl Variables"
       }
    ],
-   "Test-Simple" : [
+   "Sub-Params" : [
       {
-         "url" : "https://www.perlmonks.org/?node_id=11106010",
-         "title" : "Basic Testing Tutorial"
+         "title" : "Lost in legacy arguments",
+         "url" : "https://perladvent.org/2018/2018-12-13.html"
+      }
+   ],
+   "B" : [
+      {
+         "title" : "Christmas Quoting",
+         "url" : "https://perladvent.org/2018/2018-12-04.html"
+      }
+   ],
+   "Context-Singleton" : [
+      {
+         "title" : "Legacy code strikes again",
+         "url" : "https://perladvent.org/2018/2018-12-23.html"
+      }
+   ],
+   "Test-Excel" : [
+      {
+         "title" : "Test/Compare Your Excel",
+         "url" : "https://perladvent.org/2018/2018-12-18.html"
+      }
+   ],
+   "App-ccdiff" : [
+      {
+         "title" : "Spot The Difference",
+         "url" : "https://perladvent.org/2018/2018-12-15.html"
+      }
+   ],
+   "lazy" : [
+      {
+         "url" : "https://www.olafalders.com/2018/08/21/how-lazy-am-i/",
+         "title" : "How lazy am I?"
+      }
+   ],
+   "Net-AMQP-RabbitMQ" : [
+      {
+         "url" : "https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl",
+         "title" : "RabbitMQ-Tutorial-Perl"
+      }
+   ],
+   "GUIDeFATE" : [
+      {
+         "title" : "Now With Added Interactivity",
+         "url" : "https://perladvent.org/2019/2019-12-12.html"
+      }
+   ],
+   "Test2-Harness" : [
+      {
+         "title" : "Testing our Impatience",
+         "url" : "https://perladvent.org/2019/2019-12-23.html"
+      }
+   ],
+   "Test2-Suite" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-21.html",
+         "title" : "Test2: Test Harder (but easier)"
+      },
+      {
+         "title" : "Comparing More",
+         "url" : "https://perladvent.org/2019/2019-12-22.html"
       }
    ],
    "AWS-Lambda-Quick" : [
@@ -93,41 +97,43 @@
          "title" : "Suddenly Serverless"
       }
    ],
-   "lazy" : [
+   "OAuth-CmdLine" : [
       {
-         "title" : "How lazy am I?",
-         "url" : "https://www.olafalders.com/2018/08/21/how-lazy-am-i/"
+         "url" : "https://perladvent.org/2018/2018-12-17.html",
+         "title" : "Christmas Tunes!"
       }
    ],
-   "AWS-Lambda" : [
+   "URI" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-17.html",
-         "title" : "Taking the Sleigh to a CloudFront"
+         "title" : "Don't Forget about URI::Heuristic",
+         "url" : "https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/"
       }
    ],
-   "Babble" : [
+   "Devel-hdb" : [
       {
-         "url" : "https://perladvent.org/2018/2018-12-09.html",
-         "title" : "The Fix Is In"
-      },
-      {
-         "title" : "Christmas Tree Babbles",
-         "url" : "https://perladvent.org/2018/2018-12-10.html"
+         "title" : "Debug Hard",
+         "url" : "https://perladvent.org/2018/2018-12-21.html"
       }
    ],
-   "Test2-Harness" : [
+   "Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-23.html",
-         "title" : "Testing our Impatience"
+         "title" : "Finding Unused Perl Variables",
+         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
       }
    ],
-   "Data-Password-zxcvbn" : [
+   "SVG" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-01.html",
-         "title" : "J1ngle? No...zxcvbn"
+         "url" : "https://perladvent.org/2018/2018-12-12.html",
+         "title" : "Growing Christmas Trees"
       }
    ],
-   "Dist-Zilla-Plugin-Test-TidyAll" : [
+   "Data-Rmap" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-05.html",
+         "title" : "Data-Rmap - Santa's deepdive in an ocean of stockings."
+      }
+   ],
+   "Test-Vars" : [
       {
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/",
          "title" : "Finding Unused Perl Variables"
@@ -139,16 +145,10 @@
          "url" : "https://perladvent.org/2019/2019-12-08.html"
       }
    ],
-   "GD" : [
+   "Module-CoreList" : [
       {
-         "title" : "Animated GIFs",
-         "url" : "https://perladvent.org/2019/2019-12-14.html"
-      }
-   ],
-   "Array-Sticky" : [
-      {
-         "title" : "Sticky Delight",
-         "url" : "https://perladvent.org/2018/2018-12-06.html"
+         "title" : "Core Strength",
+         "url" : "https://perladvent.org/2019/2019-12-18.html"
       }
    ],
    "FFI-Platypus" : [
@@ -157,122 +157,16 @@
          "url" : "https://perladvent.org/2019/2019-12-04.html"
       }
    ],
-   "Mojolicious" : [
+   "Method-ParamValidator" : [
       {
-         "url" : "https://perladvent.org/2019/2019-12-11.html",
-         "title" : "Now With Added Interactivity"
-      },
-      {
-         "title" : "Cute Christmas Animals",
-         "url" : "https://perladvent.org/2018/2018-12-19.html"
+         "url" : "https://perladvent.org/2018/2018-12-22.html",
+         "title" : "Validation"
       }
    ],
-   "App-perlvars" : [
+   "Data-Password-zxcvbn" : [
       {
-         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/",
-         "title" : "Finding Unused Perl Variables"
-      }
-   ],
-   "Paws" : [
-      {
-         "title" : "Paws to Plan What Todo",
-         "url" : "https://perladvent.org/2019/2019-12-16.html"
-      }
-   ],
-   "Open-This" : [
-      {
-         "title" : "Opening Files Quickly from Inside vim",
-         "url" : "https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/"
-      }
-   ],
-   "Devel-hdb" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-21.html",
-         "title" : "Debug Hard"
-      }
-   ],
-   "WWW-Mechanize" : [
-      {
-         "url" : "https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/",
-         "title" : "WWW::Mechanize Best Practices"
-      }
-   ],
-   "Context-Singleton" : [
-      {
-         "title" : "Legacy code strikes again",
-         "url" : "https://perladvent.org/2018/2018-12-23.html"
-      }
-   ],
-   "Data-Rmap" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-05.html",
-         "title" : "Data-Rmap - Santa's deepdive in an ocean of stockings."
-      }
-   ],
-   "Net-AMQP-RabbitMQ" : [
-      {
-         "url" : "https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl",
-         "title" : "RabbitMQ-Tutorial-Perl"
-      }
-   ],
-   "SVG" : [
-      {
-         "title" : "Growing Christmas Trees",
-         "url" : "https://perladvent.org/2018/2018-12-12.html"
-      }
-   ],
-   "Calendar-List" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-01.html",
-         "title" : "Sign o' The Times"
-      }
-   ],
-   "LWP-ConsoleLogger" : [
-      {
-         "title" : "Observing Network Traffic with LWP::ConsoleLogger::Everywhere",
-         "url" : "https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/"
-      }
-   ],
-   "OAuth-CmdLine" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-17.html",
-         "title" : "Christmas Tunes!"
-      }
-   ],
-   "DBD-MariaDB" : [
-      {
-         "title" : "DBD-mysql versus DBD-MariaDB",
-         "url" : "https://perladvent.org/2018/2018-12-08.html"
-      }
-   ],
-   "Mu" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-11.html",
-         "title" : "Mu"
-      }
-   ],
-   "URI" : [
-      {
-         "title" : "Don't Forget about URI::Heuristic",
-         "url" : "https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/"
-      }
-   ],
-   "WebService-HIBP" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-02.html",
-         "title" : "Have Elf Been Pwned?"
-      }
-   ],
-   "GUIDeFATE" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-12.html",
-         "title" : "Now With Added Interactivity"
-      }
-   ],
-   "Mo" : [
-      {
-         "url" : "https://perladvent.org/2019/2019-12-07.html",
-         "title" : "Show Me Mo'"
+         "url" : "https://perladvent.org/2019/2019-12-01.html",
+         "title" : "J1ngle? No...zxcvbn"
       }
    ],
    "Text-CSV-Pivot" : [
@@ -281,16 +175,40 @@
          "url" : "https://perladvent.org/2018/2018-12-07.html"
       }
    ],
-   "Test-TCP" : [
+   "WWW-Mechanize" : [
       {
-         "title" : "Command Line Browser Apps",
-         "url" : "https://perladvent.org/2019/2019-12-09.html"
+         "title" : "WWW::Mechanize Best Practices",
+         "url" : "https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/"
       }
    ],
-   "Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter" : [
+   "Dist-Zilla-Plugin-Test-TidyAll" : [
       {
-         "title" : "Finding Unused Perl Variables",
-         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
+         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/",
+         "title" : "Finding Unused Perl Variables"
+      }
+   ],
+   "Hash-Flatten" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-16.html",
+         "title" : "Handling complex data structures"
+      }
+   ],
+   "Imager" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-24.html",
+         "title" : "We Wish You a Meme Christmas"
+      }
+   ],
+   "App-HTTPThis" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-24.html",
+         "title" : "Watching The Perl Conference Again"
+      }
+   ],
+   "Calendar-List" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-01.html",
+         "title" : "Sign o' The Times"
       }
    ],
    "LWP" : [
@@ -305,28 +223,16 @@
          "title" : "The Weather Outside Is Frightful"
       }
    ],
-   "Imager" : [
+   "Mojo-AsyncAwait" : [
       {
-         "title" : "We Wish You a Meme Christmas",
-         "url" : "https://perladvent.org/2019/2019-12-24.html"
+         "title" : "Awaiting Christmas",
+         "url" : "https://perladvent.org/2019/2019-12-10.html"
       }
    ],
-   "App-ccdiff" : [
+   "App-perlvars" : [
       {
-         "title" : "Spot The Difference",
-         "url" : "https://perladvent.org/2018/2018-12-15.html"
-      }
-   ],
-   "App-HTTPThis" : [
-      {
-         "url" : "https://perladvent.org/2018/2018-12-24.html",
-         "title" : "Watching The Perl Conference Again"
-      }
-   ],
-   "B" : [
-      {
-         "title" : "Christmas Quoting",
-         "url" : "https://perladvent.org/2018/2018-12-04.html"
+         "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/",
+         "title" : "Finding Unused Perl Variables"
       }
    ],
    "Authen-OATH" : [
@@ -335,10 +241,104 @@
          "url" : "https://perladvent.org/2019/2019-12-03.html"
       }
    ],
+   "Test-TCP" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-09.html",
+         "title" : "Command Line Browser Apps"
+      }
+   ],
+   "Paws" : [
+      {
+         "title" : "Paws to Plan What Todo",
+         "url" : "https://perladvent.org/2019/2019-12-16.html"
+      }
+   ],
+   "DBD-MariaDB" : [
+      {
+         "title" : "DBD-mysql versus DBD-MariaDB",
+         "url" : "https://perladvent.org/2018/2018-12-08.html"
+      }
+   ],
+   "AWS-Lambda" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-17.html",
+         "title" : "Taking the Sleigh to a CloudFront"
+      }
+   ],
+   "Mo" : [
+      {
+         "title" : "Show Me Mo'",
+         "url" : "https://perladvent.org/2019/2019-12-07.html"
+      }
+   ],
    "Plack" : [
       {
          "title" : "Draft Solution",
          "url" : "https://perladvent.org/2019/2019-12-13.html"
+      }
+   ],
+   "Memoize" : [
+      {
+         "title" : "Memories of Past Lives",
+         "url" : "https://perladvent.org/2019/2019-12-19.html"
+      }
+   ],
+   "Test-Simple" : [
+      {
+         "url" : "https://www.perlmonks.org/?node_id=11106010",
+         "title" : "Basic Testing Tutorial"
+      }
+   ],
+   "WebService-HIBP" : [
+      {
+         "url" : "https://perladvent.org/2019/2019-12-02.html",
+         "title" : "Have Elf Been Pwned?"
+      }
+   ],
+   "Array-Sticky" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-06.html",
+         "title" : "Sticky Delight"
+      }
+   ],
+   "GD" : [
+      {
+         "title" : "Animated GIFs",
+         "url" : "https://perladvent.org/2019/2019-12-14.html"
+      }
+   ],
+   "Mojolicious" : [
+      {
+         "title" : "Now With Added Interactivity",
+         "url" : "https://perladvent.org/2019/2019-12-11.html"
+      },
+      {
+         "title" : "Cute Christmas Animals",
+         "url" : "https://perladvent.org/2018/2018-12-19.html"
+      }
+   ],
+   "CLDR-Number" : [
+      {
+         "url" : "https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/",
+         "title" : "Stop Writing Your Own Commify Functions"
+      }
+   ],
+   "App-HTTPSThis" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-24.html",
+         "title" : "Watching The Perl Conference Again"
+      }
+   ],
+   "Cpanel-JSON-XS" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-03.html",
+         "title" : "REST API and the Baby"
+      }
+   ],
+   "Mu" : [
+      {
+         "url" : "https://perladvent.org/2018/2018-12-11.html",
+         "title" : "Mu"
       }
    ]
 }
