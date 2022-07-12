@@ -22,7 +22,7 @@ while (<$csv>) {
   };
 }
 
-my $json = JSON->new->pretty(1)->encode($data);
+my $json = JSON->new->canonical(1)->pretty(1)->encode($data);
 
 open my $json_fh, '>', $out;
 
