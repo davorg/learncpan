@@ -339,6 +339,12 @@
          "url" : "https://perladvent.org/2019/2019-12-02.html"
       }
    ],
+   "XML-LibXML" : [
+      {
+         "title" : "Perl XML::LibXML by Example",
+         "url" : "https://grantm.github.io/perl-libxml-by-example/"
+      }
+   ],
    "lazy" : [
       {
          "title" : "How lazy am I?",
