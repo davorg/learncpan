@@ -58,3 +58,4 @@ WWW-Mechanize,https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/
 URI,https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/,Don't Forget about URI::Heuristic
 CLDR-Number,https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/,Stop Writing Your Own Commify Functions
 Authen-OATH,https://lesterhightower.com/blog/posts/totp-with-perl-and-authenoath/,TOTP with Perl and Authen::OATH
+XML-LibXML,https://grantm.github.io/perl-libxml-by-example/,Perl XML::LibXML by Example
