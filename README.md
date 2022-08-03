@@ -11,4 +11,4 @@ the `tutorials.csv` file and create a pull request.
 
 The JSON that this project generates is at:
 
-* [davorg.dev/learncpan/tutorials.json]([https://davorg.dev/learncpan/tutorials.json)
+* [davorg.dev/learncpan/tutorials.json](https://davorg.dev/learncpan/tutorials.json)
