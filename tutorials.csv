@@ -59,3 +59,339 @@ URI,https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/,Don't 
 CLDR-Number,https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/,Stop Writing Your Own Commify Functions
 Authen-OATH,https://lesterhightower.com/blog/posts/totp-with-perl-and-authenoath/,TOTP with Perl and Authen::OATH
 XML-LibXML,https://grantm.github.io/perl-libxml-by-example/,Perl XML::LibXML by Example
+URI-Find,https://perladvent.org/2002/1st/,URI::Find
+IO-AtomicFile,https://perladvent.org/2002/2nd/,IO::AtomicFile
+DBD-SQLite,https://perladvent.org/2002/3rd/,DBD::SQLite
+Test-Builder,https://perladvent.org/2002/4th/,Test::Builder
+Image-Size,https://perladvent.org/2002/5th/,Image::Size
+Devel-Size,https://perladvent.org/2002/6th/,Devel::Size
+File-MMagic,https://perladvent.org/2002/7th/,File::MMagic
+XML-Handler-AxPoint,https://perladvent.org/2002/8th/,XML::Handler::AxPoint
+XML-SAX,https://perladvent.org/2002/9th/,XML::SAX
+Params-Validate,https://perladvent.org/2002/10th/,Params::Validate
+File-Find-Rule,https://perladvent.org/2002/11th/,File::Find::Rule
+Object-Realize-Later,https://perladvent.org/2002/12th/,Object::Realize::Later
+Benchmark,https://perladvent.org/2002/13th/,Benchmark
+Test-MockObject,https://perladvent.org/2002/14th/,Test::MockObject
+YAML,https://perladvent.org/2002/15th/,YAML
+Acme-Intraweb,https://perladvent.org/2002/17th/,Acme::Intraweb
+CPANPLUS,https://perladvent.org/2002/18th/,CPANPLUS
+Inline-TT,https://perladvent.org/2002/19th/,Inline::TT
+Class-Data-Inheritable,https://perladvent.org/2002/20th/,Class::Data::Inheritable
+Tie-File,https://perladvent.org/2002/21st/,Tie::File
+Class-DBI,https://perladvent.org/2002/23rd/,Class::DBI
+Pixie,https://perladvent.org/2002/24th/,Pixie
+Devel-DProf,https://perladvent.org/2002/25th/,Devel::DProf
+CGI-Untaint,https://perladvent.org/2003/1st/,CGI::Untaint
+HTML-Entities,https://perladvent.org/2003/2nd/,HTML::Entities
+Hook-LexWrap,https://perladvent.org/2003/3rd/,Hook::LexWrap
+PPerl,https://perladvent.org/2003/4th/,PPerl
+Template-Extract,https://perladvent.org/2003/5th/,Template::Extract
+Mail-SpamAssassin,https://perladvent.org/2003/6th/,Mail::SpamAssassin
+Attribute-Handlers,https://perladvent.org/2003/7th/,Attribute::Handlers
+CGI-Application,https://perladvent.org/2003/8th/,CGI::Application
+Data-Dimensions,https://perladvent.org/2003/9th/,Data::Dimensions
+Test-Inline,https://perladvent.org/2003/10th/,Test::Inline
+File-chdir,https://perladvent.org/2003/11th/,File::chdir
+Class-ISA,https://perladvent.org/2003/12th/,Class::ISA
+Date-Parse,https://perladvent.org/2003/14th/,Date::Parse
+Text-Glob,https://perladvent.org/2003/15th/,Text::Glob
+Math-BigInt,https://perladvent.org/2003/16th/,Math::BigInt
+PDF-Reuse,https://perladvent.org/2003/18th/,PDF::Reuse
+Acme-Code-FreedomFighter,https://perladvent.org/2003/19th/,Acme::Code::FreedomFighter
+Regex-Common,https://perladvent.org/2003/20th/,Regex::Common
+Inline-Java,https://perladvent.org/2003/21st/,Inline::Java
+LWP-Simple,https://perladvent.org/2003/22nd/,LWP::Simple
+Data-Structure-Util,https://perladvent.org/2003/24th/,Data::Structure::Util
+PAR,https://perladvent.org/2003/25th/,PAR
+DateTime,https://perladvent.org/2004/1st/,DateTime
+Term-ANSIColor,https://perladvent.org/2004/2nd/,Term::ANSIColor
+Class-Accessor-Chained,https://perladvent.org/2004/3rd/,Class::Accessor::Chained
+String-ShellQuote,https://perladvent.org/2004/4th/,String::ShellQuote
+CPAN-Mini,https://perladvent.org/2004/5th/,CPAN::Mini
+Module-Pluggable,https://perladvent.org/2004/6th/,Module::Pluggable
+Term-ProgressBar,https://perladvent.org/2004/7th/,Term::ProgressBar
+Data-Dumper-Simple,https://perladvent.org/2004/8th/,Data::Dumper::Simple
+Proc-Daemon,https://perladvent.org/2004/9th/,Proc::Daemon
+Data-UUID,https://perladvent.org/2004/10th/,Data::UUID
+Encode,https://perladvent.org/2004/11th/,Encode
+Text-Unidecode,https://perladvent.org/2004/12th/,Text::Unidecode
+Devel-Trace,https://perladvent.org/2004/13th/,Devel::Trace
+SQL-Abstract,https://perladvent.org/2004/14th/,SQL::Abstract
+Archive-Extract,https://perladvent.org/2004/15th/,Archive::Extract
+Cache-Cache,https://perladvent.org/2004/16th/,Cache::Cache
+Mac-Glue,https://perladvent.org/2004/17th/,Mac::Glue
+Acme-Drunk,https://perladvent.org/2004/18th/,Acme::Drunk
+Filesys-Virtual,https://perladvent.org/2004/20th/,Filesys::Virtual
+Sys-Hostname,https://perladvent.org/2004/21st/,Sys::Hostname
+Interpolation,https://perladvent.org/2005/6/,On the ordinate(6) day of X-Mas
+Math-BigInt,https://perladvent.org/2005/8/,On the 8E00000000 day of Advent my True Language brought to me...
+CGI-Ajax,https://perladvent.org/2005/9/,Buzzword Bingo
+Perl6-Junction,https://perladvent.org/2005/11/,Conjunction Junction
+Regexp-Keep,https://perladvent.org/2005/13/,A penny saved is a penny earned
+HTML-Lint,https://perladvent.org/2005/14/,Keeping it clean
+Data-COW,https://perladvent.org/2005/15/,Data::COW
+XML-RSS-SimpleGen,https://perladvent.org/2005/16/,On the 16th day of Advent my True Language syndicated for me...
+XML-RSS-SimpleGen,https://perladvent.org/2005/17/,Reindeer sausage
+Regexp-Assemble,https://perladvent.org/2005/18/,O Christmas Trie! O Christmas Trie!
+Test-Perl-Critic,https://perladvent.org/2005/19/,Everyone loves a critic
+Perl-Compare,https://perladvent.org/2005/20/,Nothing compares to you
+Want,https://perladvent.org/2005/21/,All I want for christmas...
+Sort-Maker,https://perladvent.org/2005/23/,Sorting things out...
+Enum,https://perladvent.org/2005/24/,Three french toasts
+Text-FIGlet,https://perladvent.org/2005/25/,It went zip when it moved and bopped when it stopped and whirred when it stood still
+Devel-SmallProf,https://perladvent.org/2006/1/,Good things come in small packages
+File-Find-Object,https://perladvent.org/2006/2/,Peeking under the tree
+Treemap,https://perladvent.org/2006/3/,Data decorating the tips of a Christmas Treemap
+CGI-Minimal,https://perladvent.org/2006/4/,Are you naughty or nice?
+Module-Starter,https://perladvent.org/2006/6/,Santa's Little Helper
+Acme-Don-t,https://perladvent.org/2006/7/,Christmas don't be late
+File-SortedSeek,https://perladvent.org/2006/8/,Olly Olly Oxen Free
+Fatal,https://perladvent.org/2006/10/,Grandma Got Run Over by a Reindeer
+GD-Simple,https://perladvent.org/2006/11/,Putting Tinsel on the Tree
+Pod-Usage,https://perladvent.org/2006/12/,Santa makes a list and checks it twice...
+Shell,https://perladvent.org/2006/13/,The Nutcracker
+IPC-Run3,https://perladvent.org/2006/14/,Three I/O Channels Too Many Options & a Command to Run with IPC
+File-HomeDir,https://perladvent.org/2006/15/,I'll Be Home for Christmas
+Number-WithError,https://perladvent.org/2006/16/,I'm Approximating a White Christmas
+Logfile-Rotate,https://perladvent.org/2006/17/,Yule Log-Rolling
+Text-Diff,https://perladvent.org/2006/18/,What's the diff between a biscuit and a reindeer?
+XML-Feed,https://perladvent.org/2006/19/,Feast on this
+Date-Calc,https://perladvent.org/2006/20/,Counting down the days...
+Devel-Cover,https://perladvent.org/2006/21/,Warm Fuzzy Coverage
+PAR-Dist,https://perladvent.org/2006/22/,...and a PARtridge in a PAR tree
+criticism,https://perladvent.org/2006/23/,Happy Holidays You Bastard
+Data-ICal,https://perladvent.org/2007/1/,On the ... which day again?!?
+Parallel-Jobs,https://perladvent.org/2007/2/,Parallels parallels it's Christmas time in the city
+DBIx-Profile,https://perladvent.org/2007/3/,Brown paper packages tied up with string
+Test-Differences,https://perladvent.org/2007/4/,You don't get a belly like this drinking skim milk
+File-Which,https://perladvent.org/2007/5/,All I want for Christmas is Perl 5.10
+File-ReadBackwards,https://perladvent.org/2007/6/,He's making a list Checking it twice
+Math-Combinatorics,https://perladvent.org/2007/8/,Choosing the perfect secret santa
+Sub-Versive,https://perladvent.org/2007/9/,E.L.F.
+forks,https://perladvent.org/2007/11/,Spoon!
+DateTime-TimeZone,https://perladvent.org/2007/16/,Timely Flight Planning for a Sleigh
+Pod-Simple,https://perladvent.org/2007/17/,Subclassing all the way!
+Acme-Curses-Marquee,https://perladvent.org/2007/18/,Here we come a wascrolling
+B-Fathom,https://perladvent.org/2007/23/,Dickens also rates an 8
+Text-vCard,https://perladvent.org/2007/24/,Checking the list twice
+Time-Out,https://perladvent.org/2007/25/,I can hardly wait
+Math-Prime-TiedArray,https://perladvent.org/2008/2/,Primed for Christmas
+Math-BigApprox,https://perladvent.org/2008/3/,Sleighing big numbers
+Lingua-Ident,https://perladvent.org/2008/4/,Mais si Virginie le Père Noël existe
+Sub-Curry,https://perladvent.org/2008/6/,Baby it's cold outside so why don't we tuck into a curry?
+IPC-Filter,https://perladvent.org/2008/8/,Running in a filtered wonderland
+Module-ScanDeps,https://perladvent.org/2008/11/,Should I expect help with my heating bill from Santa?
+Tk,https://perladvent.org/2008/12/,Twelve Intrepid Ibex pulling a load of open source
+Text-SpellChecker,https://perladvent.org/2008/13/,For Krismash I wante a pony (pleez)
+Lingua-Translate,https://perladvent.org/2008/14/,L-HO-HO-HO-st in translation
+ForkBlock,https://perladvent.org/2008/15/,Merry forking() Christmas
+SelfLoader,https://perladvent.org/2008/16/,Loads of Christmas cheer
+Config-General,https://perladvent.org/2008/18/,The Toy-O-Matic (3000X!)
+App-Asciio,https://perladvent.org/2008/21/,Holiday Armadillo
+Regexp-Subst-Parallel,https://perladvent.org/2008/22/,Egg substitute nog
+Test-Perl-Critic-Progressive,https://perladvent.org/2008/23/,Resolution for next year: 1280x1024 or better
+Sort-Half-Maker,https://perladvent.org/2008/24/,Xmas sort of title
+Term-Animation,https://perladvent.org/2008/25/,Excited elfs
+Any-Moose-Forcefully,https://perladvent.org/2009/1/,Not a creature was stirring…
+Tie-CharArray,https://perladvent.org/2009/2/,New Winter Spectator Sport - Thongs & Toboggans
+Every,https://perladvent.org/2009/4/,Let it go let it go let it go
+XML-Twig,https://perladvent.org/2009/6/,Santy Claus why? Why are you taking our Perl module? WHY?
+pmtools,https://perladvent.org/2009/16/,Stocking Stuffers
+Match-Smart,https://perladvent.org/2009/19/,The children were smartly dressed in matching attire for the holidays
+Lvalue,https://perladvent.org/2009/24/,Noëlvalue
+Acme-Grep2D,https://perladvent.org/2009/25/,Finding the perfect tree topper
+YAPE-Regex-Explain,https://perladvent.org/2010/1/,Tangled Tidings
+Set-Array,https://perladvent.org/2010/2/,Setting the bar high with an array of unique gifts
+Win32-GUI,https://perladvent.org/2010/3/,Seasonal Help
+Devel-Eval,https://perladvent.org/2010/4/,Debuggin' blinken strings
+Champlain,https://perladvent.org/2010/5/,Merry Christmap
+XLSperl,https://perladvent.org/2010/6/,Spreading Christmas Cheer
+selfvars,https://perladvent.org/2010/8/,Selfless gifting
+Carp-REPL,https://perladvent.org/2010/11/,karp bożonarodzenie OR Dear Santa Please REPL
+App-perlzonji,https://perladvent.org/2010/12/,VAXmas
+Tkx,https://perladvent.org/2010/13/,Tkx Tkx Tkx… is Christmas every going to get here?
+Perl-MinimumVersion,https://perladvent.org/2010/14/,All I want for Christmas is something newer than 5.5.3
+Env-Sanctify,https://perladvent.org/2010/15/,$HOME for the holidays
+Net-Server,https://perladvent.org/2010/16/,Net stockings are barely servicable gift receptacles
+Math-Geometry-Voronoi,https://perladvent.org/2010/17/,Oh Voronoi night…
+Text-BarGraph,https://perladvent.org/2010/18/,On the 2nd day of Xmas Santa hits the bar pretty hard!
+Whatever,https://perladvent.org/2010/19/,So umm I told Santa what I wanted and he was totally like whatever…
+Net-Twitter-Lite,https://perladvent.org/2010/20/,Four Naughty Tweeting Birds
+Benchmark-Timer,https://perladvent.org/2010/21/,Robot Santa asks 'Is your code nice enough?'
+Digest-BubbleBabble,https://perladvent.org/2010/22/,xikoh-tomos-luhag-hycun-kupul-rulal-rudap-vysem-tacut-savyr-luxox
+Text-ParagraphDiff,https://perladvent.org/2010/24/,Twas the night before diffmas
+local-lib,https://perladvent.org/2011/2011-12-01.html,Keeping the Packages Neatly Wrapped Up
+App-cpanoutdated,https://perladvent.org/2011/2011-12-02.html,Keeping up with the Joneses
+namespace-autoclean,https://perladvent.org/2011/2011-12-03.html,Keep it Clean
+Carp-Always,https://perladvent.org/2011/2011-12-04.html,Warn Different
+Set-CrossProduct,https://perladvent.org/2011/2011-12-06.html,Make all the combinations
+Package-Stash,https://perladvent.org/2011/2011-12-07.html,Unwrapping the Package(::Stash)
+App-perlbrew,https://perladvent.org/2011/2011-12-08.html,All the perls are all lined up
+Data-SearchEngine,https://perladvent.org/2011/2011-12-09.html,Taming Search with Data::SearchEngine
+Mojo-UserAgent,https://perladvent.org/2011/2011-12-11.html,Mojolicious as a client
+DBIx-RunSQL,https://perladvent.org/2011/2011-12-12.html,Now I have an SQL machine gun
+App-Nopaste,https://perladvent.org/2011/2011-12-14.html,Don't Get Kickbanned
+Pod-Cpandoc,https://perladvent.org/2011/2011-12-15.html,Install Even Less
+Perldoc-Server,https://perladvent.org/2011/2011-12-16.html,All Your Documentation Even Offline
+Try-Tiny,https://perladvent.org/2011/2011-12-17.html,There is No Try
+rename,https://perladvent.org/2011/2011-12-18.html,Munge All the Filenames!
+Path-Class-Rule,https://perladvent.org/2011/2011-12-19.html,Process ALL the FILES!
+Test-Routine,https://perladvent.org/2011/2011-12-20.html,Revisiting Test::Routine
+utf8-all,https://perladvent.org/2011/2011-12-21.html,A Shortcut to Unicode
+DBIx-Connector,https://perladvent.org/2011/2011-12-22.html,Less Tedium More Transactions
+Params-Util,https://perladvent.org/2011/2011-12-23.html,It Boiled Plate So You Don't Have To!
+App-Uni,https://perladvent.org/2011/2011-12-24.html,Where Does He Get Those Wonderful Codepoints?
+Unicode-Tussle,https://perladvent.org/2011/2011-12-24.html,Where Does He Get Those Wonderful Codepoints?
+Path-Class,https://perladvent.org/2012/2012-12-01.html,Sweet Path::Class is Coming to Town
+Scope-Upper,https://perladvent.org/2012/2012-12-03.html,Sleigh Upgrade
+Dist-Zilla-Plugin-ReportVersions-Tiny,https://perladvent.org/2012/2012-12-04.html,Which Library Broke?
+Dancer,https://perladvent.org/2012/2012-12-05.html,Reindeer Games
+Data-Printer,https://perladvent.org/2012/2012-12-06.html,Checking Out Your Data Structures
+Safe,https://perladvent.org/2012/2012-12-07.html,Is your code… Safe?
+File-AtomicWrite,https://perladvent.org/2012/2012-12-08.html,Atomic Gift Wrapping
+File-ShareDir-Tarball,https://perladvent.org/2012/2012-12-10.html,The Greatest Tradition of All
+IO-Prompt-Tiny,https://perladvent.org/2012/2012-12-11.html,Making a list and checking it twice
+Test-LWP-UserAgent,https://perladvent.org/2012/2012-12-12.html,Testing networking client code using Test::LWP::UserAgent
+adenosine,https://perladvent.org/2012/2012-12-13.html,Take a little REST
+App-FatPacker,https://perladvent.org/2012/2012-12-14.html,Self-contained applications
+File-Flock-Tiny,https://perladvent.org/2012/2012-12-15.html,Gift Wrapping part II: Locking the Room
+Syntax-Collector,https://perladvent.org/2012/2012-12-16.html,Creating Your Own Perl
+Pinto,https://perladvent.org/2012/2012-12-17.html,Santa Has Dependencies Too
+AnyEvent,https://perladvent.org/2012/2012-12-18.html,Synchronous Operations are So Outdated
+CHI,https://perladvent.org/2012/2012-12-19.html,A Cache Present
+Test-Pretty,https://perladvent.org/2012/2012-12-20.html,Better Testing
+DBIx-Class,https://perladvent.org/2012/2012-12-21.html,Set-based DBIx::Class
+Wallflower,https://perladvent.org/2012/2012-12-22.html,Generate static web sites using your favorite Perl framework
+JSON,https://perladvent.org/2012/2012-12-23.html,Give and Receive the Right Number of Gifts
+Web-Machine,https://perladvent.org/2012/2012-12-24.html,Have REST-ful Holidays
+RDF-Trine,https://perladvent.org/2013/2013-12-01.html,Semantic Perl
+RDF-Query,https://perladvent.org/2013/2013-12-01.html,Semantic Perl
+App-Legion,https://perladvent.org/2013/2013-12-03.html,Swarm your webserver
+Graph-Easy,https://perladvent.org/2013/2013-12-04.html,Gift Exchanges as a Practical Example of Cyclic Directional Graphs
+Safe-Isa,https://perladvent.org/2013/2013-12-05.html,Playing it safe with Safe::Isa
+WebService-FindMyiPhone,https://perladvent.org/2013/2013-12-06.html,Find My Santa
+PSGI/Plack,https://perladvent.org/2013/2013-12-07.html,Web done better!
+App-PAUSE-CheckPerms,https://perladvent.org/2013/2013-12-08.html,The PAUSE Permissions Model
+Dist-Zilla-LocaleTextDomain,https://perladvent.org/2013/2013-12-09.html,Localize Your Perl Apps with this One Weird Trick
+CPANfile,https://perladvent.org/2013/2013-12-10.html,Give the gift of dependency clarity
+GitStore,https://perladvent.org/2013/2013-12-11.html,Toystore Story
+Devel-CompiledCalls,https://perladvent.org/2013/2013-12-12.html,Present Confusion
+DBIx-Introspector,https://perladvent.org/2013/2013-12-14.html,Shake those gifts and figure out what's inside!
+App-GitGot,https://perladvent.org/2013/2013-12-15.html,Got Git? Ask Santa to get Got!
+Beam-Emitter,https://perladvent.org/2013/2013-12-16.html,Advent-based Programming
+Time-Duration,https://perladvent.org/2013/2013-12-17.html,How many days until Christmas?
+Path-Tiny,https://perladvent.org/2013/2013-12-18.html,The little module that keeps on giving
+MooseX-StrictConstructor,https://perladvent.org/2013/2013-12-19.html,More Moose More Discipline
+PPI-HTML,https://perladvent.org/2013/2013-12-20.html,Pretty Pretty Pod
+Text-VimColor,https://perladvent.org/2013/2013-12-20.html,Pretty Pretty Pod
+String-Errf,https://perladvent.org/2013/2013-12-22.html,Throw Now Describe Later
+DateTime-Moonpig,https://perladvent.org/2013/2013-12-23.html,DateTimes
+Devel-cst,https://perladvent.org/2013/2013-12-24.html,The Emergency Debugger
+Test-TempDir-Tiny,https://perladvent.org/2014/2014-12-01.html,No Room At The I.N.N.
+Mac-Safari-JavaScript,https://perladvent.org/2014/2014-12-02.html,Making a list checking it twice...
+HTTP-Tiny,https://perladvent.org/2014/2014-12-03.html,Attention Seeking Behavior
+Sub-Util,https://perladvent.org/2014/2014-12-05.html,A Subroutine By Any Other Name
+Test-DatabaseRow,https://perladvent.org/2014/2014-12-06.html,Testing The Naughty Or Nice Database
+Time-Limit,https://perladvent.org/2014/2014-12-07.html,Out of Time
+Perl-Metrics-Simple,https://perladvent.org/2014/2014-12-08.html,The Complexity of Perl
+Mojo-Pg,https://perladvent.org/2014/2014-12-09.html,Async PostgreSQL with Mojo::Pg
+FFI-Raw,https://perladvent.org/2014/2014-12-10.html,Foreign Function Interface and Perl
+Type-Tiny,https://perladvent.org/2014/2014-12-11.html,A Tiny But Powerful Type System
+if,https://perladvent.org/2014/2014-12-12.html,If if use use if
+MooX-Options,https://perladvent.org/2014/2014-12-13.html,Now I Have Better Options
+Test-Kit,https://perladvent.org/2014/2014-12-14.html,All I want for Christmas is less boilerplate
+MetaCPAN-Client,https://perladvent.org/2014/2014-12-15.html,Finding CPAN distributions with github repositories
+Code-TidyAll,https://perladvent.org/2014/2014-12-16.html,How Santa's Elves Keep their Workshop Tidy
+Test-Requires,https://perladvent.org/2014/2014-12-17.html,Optional tests for optional requirements
+Data-ICal-DateTime,https://perladvent.org/2014/2014-12-18.html,Christmas Timekeeping
+Capture-Tiny,https://perladvent.org/2014/2014-12-19.html,Wrapping output
+Struct-Dumb,https://perladvent.org/2014/2014-12-20.html,Dumb In-struct-ions
+App-ack,https://perladvent.org/2014/2014-12-21.html,Beyond Grep
+Plack-App-Path-Router,https://perladvent.org/2014/2014-12-22.html,A Holiday PAPR-ation
+AnyEvent,https://perladvent.org/2014/2014-12-24.html,Out of Order Perl
+GeoIP2,https://perladvent.org/2015/2015-12-01.html,Where in the World?
+App-cpm,https://perladvent.org/2015/2015-12-02.html,Fast CPAN Module Installation
+Devel-Hide,https://perladvent.org/2015/2015-12-04.html,Help! Rudolf's Nose Won't Light Up!
+Lingua-EN-Inflexion,https://perladvent.org/2015/2015-12-05.html,Improving User Messages
+Convert-CookingTimes,https://perladvent.org/2015/2015-12-06.html,Calculating cooking times the easy way
+Text-Hogan,https://perladvent.org/2015/2015-12-07.html,Sharing templates will get you on the nice list
+Reply,https://perladvent.org/2015/2015-12-08.html,Live programming perl with Reply
+Web-Query,https://perladvent.org/2015/2015-12-09.html,Scrape the Halls
+Module-CPANFile,https://perladvent.org/2015/2015-12-10.html,Just What Are You Installing Now?
+Smart-Comments,https://perladvent.org/2015/2015-12-11.html,Extracting more value out of your script's comments
+Config-Station,https://perladvent.org/2015/2015-12-12.html,Configuration Station
+JSON-Path,https://perladvent.org/2015/2015-12-13.html,(JSON::)Paths in the snow
+Acme-MetaSyntactic,https://perladvent.org/2015/2015-12-14.html,crash kayo zamm splatt
+File-Serialize,https://perladvent.org/2015/2015-12-15.html,Garlands of YAML and JSON
+Stepford,https://perladvent.org/2015/2015-12-16.html,Building Santa's Naughty and Nice List with Stepford
+Process-Status,https://perladvent.org/2015/2015-12-17.html,No More Leaking Glue
+Sereal,https://perladvent.org/2015/2015-12-18.html,Christmas Wishes
+Sort-ByExample,https://perladvent.org/2015/2015-12-19.html,Santa Sorts By Example
+Redis,https://perladvent.org/2015/2015-12-20.html,Perl and Redis
+feature,https://perladvent.org/2015/2015-12-21.html,The Perl of Christmas Future
+AnsibleModule,https://perladvent.org/2015/2015-12-22.html,Automate Christmas with Ansible and Perl
+Mojo-UserAgent,https://perladvent.org/2015/2015-12-23.html,Escaping the Basement For Christmas
+Device-Chip-Adapter,https://perladvent.org/2015/2015-12-24.html,The Perl Powered Christmas Tree
+Meta-Grapher-Moose,https://perladvent.org/2016/2016-12-01.html,Graphing Moose Classes Automatically
+Ref-Util,https://perladvent.org/2016/2016-12-02.html,Jingle Refs Jingle Refs Jingle all the way
+Bencher,https://perladvent.org/2016/2016-12-03.html,Benchmarking with Bencher
+Log-Any,https://perladvent.org/2016/2016-12-04.html,Yuletide Logging
+List-Gather,https://perladvent.org/2016/2016-12-05.html,Gathering all the Presents
+Schedule-LongSteps,https://perladvent.org/2016/2016-12-06.html,Help Santa Klaus Reward Only Nice Children
+Git-Hooks,https://perladvent.org/2016/2016-12-07.html,Writing git hooks with Git::Hooks
+Geo-Coder-OpenCage,https://perladvent.org/2016/2016-12-08.html,Geocoding the world at volume with open data
+Params-Validate-Dependencies,https://perladvent.org/2016/2016-12-09.html,Too Many Choices For Santa
+CSV,https://perladvent.org/2016/2016-12-10.html,Combining wishlists for production and shipping planning
+Magpie,https://perladvent.org/2016/2016-12-11.html,REST-oring Christmas Tranquility
+Syntax-Keyord-Try,https://perladvent.org/2016/2016-12-12.html,Trying for a Happy Christmas
+PPI,https://perladvent.org/2016/2016-12-14.html,Using PPI for static analysis
+List-Util,https://perladvent.org/2016/2016-12-15.html,Making Perl Functional
+Geo-Parser-Text,https://perladvent.org/2016/2016-12-16.html,A Geo Parser for vast amounts of Text
+App-Spec,https://perladvent.org/2016/2016-12-17.html,Writing command line tools made easy
+Text-Fuzzy,https://perladvent.org/2016/2016-12-18.html,Warm and Fuzzy Inside
+Linux-Clone,https://perladvent.org/2016/2016-12-19.html,Using containers with Linux
+Linux-Unshare,https://perladvent.org/2016/2016-12-19.html,Using containers with Linux
+Linux-Setns,https://perladvent.org/2016/2016-12-19.html,Using containers with Linux
+PDF-Reuse,https://perladvent.org/2016/2016-12-20.html,PDF-Reuse + Reduce & Recycle
+Dancer-SearchApp,https://perladvent.org/2016/2016-12-21.html,Organizing catalogues and wishlists with Dancer::SearchApp
+Algorithm-Kmeans,https://perladvent.org/2016/2016-12-22.html,All I want for Christmas...Is Statistically Calcuable
+HTTP-Caching,https://perladvent.org/2016/2016-12-23.html,speeding up the inter-web
+Emoji-NationalFlag,https://perladvent.org/2017/2017-12-02.html,Around the world with Emoji
+Perl-Critic,https://perladvent.org/2017/2017-12-03.html,Context Matters
+Import-Into,https://perladvent.org/2017/2017-12-06.html,North Pole Safety Precautions
+Term-Choose,https://perladvent.org/2017/2017-12-07.html,Choices choices so many choices!
+Const-Fast,https://perladvent.org/2017/2017-12-08.html,Constantly Merry
+Eval-Closure,https://perladvent.org/2017/2017-12-10.html,Evaluating the NaughtyNice Formula
+Path-Tiny,https://perladvent.org/2017/2017-12-11.html,Tiny Path Handling
+Devel-MAT,https://perladvent.org/2017/2017-12-12.html,A Christmas Memory
+Unicode-UCD,https://perladvent.org/2017/2017-12-13.html,It's All There in the Numbers!
+Perl-PrereqScanner,https://perladvent.org/2017/2017-12-14.html,Prereqing around the Christmas Tree
+Mojo,https://perladvent.org/2017/2017-12-15.html,Mojolicious on the Command Line
+MooseX-AttributeShortcuts,https://perladvent.org/2017/2017-12-16.html,For Elves Shorter is Better
+MooseX-StrictConstructor,https://perladvent.org/2017/2017-12-17.html,Making a constructor argument list checking it twice.
+MooseX-ClassAttribute,https://perladvent.org/2017/2017-12-18.html,Project Multipli-sleigh-ion
+MooseX-LazyRequire,https://perladvent.org/2017/2017-12-19.html,Maybe not
+MooseX-UndefTolerant-Attribute,https://perladvent.org/2017/2017-12-19.html,Maybe not
+Reindeer,https://perladvent.org/2017/2017-12-20.html,Reindeer
+dbicdump,https://perladvent.org/2017/2017-12-21.html,Quickly Building DBIx::Class Schemas
+Params-ValidationCompiler,https://perladvent.org/2017/2017-12-23.html,Speedy Validation
+WWW-YouTube-Download,https://perladvent.org/2017/2017-12-24.html,Watching The Perl Conference
+WebPerl,https://perladvent.org/2018/2018-12-02.html,Perl in the Browser
+Cpanel-JSON-XS-Type,https://perladvent.org/2018/2018-12-03.html,REST API and the Baby
+B-perlstring,https://perladvent.org/2018/2018-12-04.html,Christmas Quoting
+Array-Sticky-INC,https://perladvent.org/2018/2018-12-06.html,Sticky Delight
+App-Sigfix,https://perladvent.org/2018/2018-12-09.html,The Fix Is In
+SVG-ChristmasTree,https://perladvent.org/2018/2018-12-12.html,Growing Christmas Trees
+OAuth-CmdLine-Spotify,https://perladvent.org/2018/2018-12-17.html,Christmas Tunes!
+Mojo-Promise,https://perladvent.org/2018/2018-12-19.html,Cute Christmas Animals
+iSH,https://perladvent.org/2018/2018-12-20.html,Christmas-iSH
+PerlIO-zip,https://perladvent.org/2019/2019-12-08.html,Christmas Movie Time!
+Net-EmptyPort,https://perladvent.org/2019/2019-12-09.html,Command Line Browser Apps
+Mojo-Transaction-Websocket,https://perladvent.org/2019/2019-12-11.html,Now With Added Interactivity
+HTTP-Message-PSGI,https://perladvent.org/2019/2019-12-13.html,Draft Solution
+AWS-Lambda-PSGI,https://perladvent.org/2019/2019-12-17.html,Taking the Sleigh to a CloudFront
+Memoize-Expire,https://perladvent.org/2019/2019-12-19.html,Memories of Past Lives
+Test2-V0,https://perladvent.org/2019/2019-12-21.html,Test2: Test Harder (but easier)
+Test2-Compare-Base,https://perladvent.org/2019/2019-12-22.html,Comparing More
+App-yath,https://perladvent.org/2019/2019-12-23.html,Testing our Impatience
