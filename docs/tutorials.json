@@ -5,10 +5,104 @@
          "url" : "https://perladvent.org/2019/2019-12-17.html"
       }
    ],
+   "AWS-Lambda-PSGI" : [
+      {
+         "title" : "Taking the Sleigh to a CloudFront",
+         "url" : "https://perladvent.org/2019/2019-12-17.html"
+      }
+   ],
    "AWS-Lambda-Quick" : [
       {
          "title" : "Suddenly Serverless",
          "url" : "https://perladvent.org/2019/2019-12-15.html"
+      }
+   ],
+   "Acme-Code-FreedomFighter" : [
+      {
+         "title" : "Acme::Code::FreedomFighter",
+         "url" : "https://perladvent.org/2003/19th/"
+      }
+   ],
+   "Acme-Curses-Marquee" : [
+      {
+         "title" : "Here we come a wascrolling",
+         "url" : "https://perladvent.org/2007/18/"
+      }
+   ],
+   "Acme-Don-t" : [
+      {
+         "title" : "Christmas don't be late",
+         "url" : "https://perladvent.org/2006/7/"
+      }
+   ],
+   "Acme-Drunk" : [
+      {
+         "title" : "Acme::Drunk",
+         "url" : "https://perladvent.org/2004/18th/"
+      }
+   ],
+   "Acme-Grep2D" : [
+      {
+         "title" : "Finding the perfect tree topper",
+         "url" : "https://perladvent.org/2009/25/"
+      }
+   ],
+   "Acme-Intraweb" : [
+      {
+         "title" : "Acme::Intraweb",
+         "url" : "https://perladvent.org/2002/17th/"
+      }
+   ],
+   "Acme-MetaSyntactic" : [
+      {
+         "title" : "crash kayo zamm splatt",
+         "url" : "https://perladvent.org/2015/2015-12-14.html"
+      }
+   ],
+   "Algorithm-Kmeans" : [
+      {
+         "title" : "All I want for Christmas...Is Statistically Calcuable",
+         "url" : "https://perladvent.org/2016/2016-12-22.html"
+      }
+   ],
+   "AnsibleModule" : [
+      {
+         "title" : "Automate Christmas with Ansible and Perl",
+         "url" : "https://perladvent.org/2015/2015-12-22.html"
+      }
+   ],
+   "Any-Moose-Forcefully" : [
+      {
+         "title" : "Not a creature was stirring…",
+         "url" : "https://perladvent.org/2009/1/"
+      }
+   ],
+   "AnyEvent" : [
+      {
+         "title" : "Synchronous Operations are So Outdated",
+         "url" : "https://perladvent.org/2012/2012-12-18.html"
+      },
+      {
+         "title" : "Out of Order Perl",
+         "url" : "https://perladvent.org/2014/2014-12-24.html"
+      }
+   ],
+   "App-Asciio" : [
+      {
+         "title" : "Holiday Armadillo",
+         "url" : "https://perladvent.org/2008/21/"
+      }
+   ],
+   "App-FatPacker" : [
+      {
+         "title" : "Self-contained applications",
+         "url" : "https://perladvent.org/2012/2012-12-14.html"
+      }
+   ],
+   "App-GitGot" : [
+      {
+         "title" : "Got Git? Ask Santa to get Got!",
+         "url" : "https://perladvent.org/2013/2013-12-15.html"
       }
    ],
    "App-HTTPSThis" : [
@@ -23,10 +117,70 @@
          "url" : "https://perladvent.org/2018/2018-12-24.html"
       }
    ],
+   "App-Legion" : [
+      {
+         "title" : "Swarm your webserver",
+         "url" : "https://perladvent.org/2013/2013-12-03.html"
+      }
+   ],
+   "App-Nopaste" : [
+      {
+         "title" : "Don't Get Kickbanned",
+         "url" : "https://perladvent.org/2011/2011-12-14.html"
+      }
+   ],
+   "App-PAUSE-CheckPerms" : [
+      {
+         "title" : "The PAUSE Permissions Model",
+         "url" : "https://perladvent.org/2013/2013-12-08.html"
+      }
+   ],
+   "App-Sigfix" : [
+      {
+         "title" : "The Fix Is In",
+         "url" : "https://perladvent.org/2018/2018-12-09.html"
+      }
+   ],
+   "App-Spec" : [
+      {
+         "title" : "Writing command line tools made easy",
+         "url" : "https://perladvent.org/2016/2016-12-17.html"
+      }
+   ],
+   "App-Uni" : [
+      {
+         "title" : "Where Does He Get Those Wonderful Codepoints?",
+         "url" : "https://perladvent.org/2011/2011-12-24.html"
+      }
+   ],
+   "App-ack" : [
+      {
+         "title" : "Beyond Grep",
+         "url" : "https://perladvent.org/2014/2014-12-21.html"
+      }
+   ],
    "App-ccdiff" : [
       {
          "title" : "Spot The Difference",
          "url" : "https://perladvent.org/2018/2018-12-15.html"
+      }
+   ],
+   "App-cpanoutdated" : [
+      {
+         "title" : "Keeping up with the Joneses",
+         "url" : "https://perladvent.org/2011/2011-12-02.html"
+      }
+   ],
+   "App-cpm" : [
+      {
+         "title" : "Fast CPAN Module Installation",
+         "url" : "https://perladvent.org/2015/2015-12-02.html"
+      }
+   ],
+   "App-perlbrew" : [
+      {
+         "title" : "All the perls are all lined up",
+         "url" : "https://perladvent.org/2011/2011-12-08.html"
       }
    ],
    "App-perlvars" : [
@@ -35,10 +189,40 @@
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
       }
    ],
+   "App-perlzonji" : [
+      {
+         "title" : "VAXmas",
+         "url" : "https://perladvent.org/2010/12/"
+      }
+   ],
+   "App-yath" : [
+      {
+         "title" : "Testing our Impatience",
+         "url" : "https://perladvent.org/2019/2019-12-23.html"
+      }
+   ],
+   "Archive-Extract" : [
+      {
+         "title" : "Archive::Extract",
+         "url" : "https://perladvent.org/2004/15th/"
+      }
+   ],
    "Array-Sticky" : [
       {
          "title" : "Sticky Delight",
          "url" : "https://perladvent.org/2018/2018-12-06.html"
+      }
+   ],
+   "Array-Sticky-INC" : [
+      {
+         "title" : "Sticky Delight",
+         "url" : "https://perladvent.org/2018/2018-12-06.html"
+      }
+   ],
+   "Attribute-Handlers" : [
+      {
+         "title" : "Attribute::Handlers",
+         "url" : "https://perladvent.org/2003/7th/"
       }
    ],
    "Authen-OATH" : [
@@ -57,6 +241,18 @@
          "url" : "https://perladvent.org/2018/2018-12-04.html"
       }
    ],
+   "B-Fathom" : [
+      {
+         "title" : "Dickens also rates an 8",
+         "url" : "https://perladvent.org/2007/23/"
+      }
+   ],
+   "B-perlstring" : [
+      {
+         "title" : "Christmas Quoting",
+         "url" : "https://perladvent.org/2018/2018-12-04.html"
+      }
+   ],
    "Babble" : [
       {
          "title" : "The Fix Is In",
@@ -67,10 +263,94 @@
          "url" : "https://perladvent.org/2018/2018-12-10.html"
       }
    ],
+   "Beam-Emitter" : [
+      {
+         "title" : "Advent-based Programming",
+         "url" : "https://perladvent.org/2013/2013-12-16.html"
+      }
+   ],
+   "Bencher" : [
+      {
+         "title" : "Benchmarking with Bencher",
+         "url" : "https://perladvent.org/2016/2016-12-03.html"
+      }
+   ],
+   "Benchmark" : [
+      {
+         "title" : "Benchmark",
+         "url" : "https://perladvent.org/2002/13th/"
+      }
+   ],
+   "Benchmark-Timer" : [
+      {
+         "title" : "Robot Santa asks 'Is your code nice enough?'",
+         "url" : "https://perladvent.org/2010/21/"
+      }
+   ],
+   "CGI-Ajax" : [
+      {
+         "title" : "Buzzword Bingo",
+         "url" : "https://perladvent.org/2005/9/"
+      }
+   ],
+   "CGI-Application" : [
+      {
+         "title" : "CGI::Application",
+         "url" : "https://perladvent.org/2003/8th/"
+      }
+   ],
+   "CGI-Minimal" : [
+      {
+         "title" : "Are you naughty or nice?",
+         "url" : "https://perladvent.org/2006/4/"
+      }
+   ],
+   "CGI-Untaint" : [
+      {
+         "title" : "CGI::Untaint",
+         "url" : "https://perladvent.org/2003/1st/"
+      }
+   ],
+   "CHI" : [
+      {
+         "title" : "A Cache Present",
+         "url" : "https://perladvent.org/2012/2012-12-19.html"
+      }
+   ],
    "CLDR-Number" : [
       {
          "title" : "Stop Writing Your Own Commify Functions",
          "url" : "https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/"
+      }
+   ],
+   "CPAN-Mini" : [
+      {
+         "title" : "CPAN::Mini",
+         "url" : "https://perladvent.org/2004/5th/"
+      }
+   ],
+   "CPANPLUS" : [
+      {
+         "title" : "CPANPLUS",
+         "url" : "https://perladvent.org/2002/18th/"
+      }
+   ],
+   "CPANfile" : [
+      {
+         "title" : "Give the gift of dependency clarity",
+         "url" : "https://perladvent.org/2013/2013-12-10.html"
+      }
+   ],
+   "CSV" : [
+      {
+         "title" : "Combining wishlists for production and shipping planning",
+         "url" : "https://perladvent.org/2016/2016-12-10.html"
+      }
+   ],
+   "Cache-Cache" : [
+      {
+         "title" : "Cache::Cache",
+         "url" : "https://perladvent.org/2004/16th/"
       }
    ],
    "Calendar-List" : [
@@ -79,10 +359,82 @@
          "url" : "https://perladvent.org/2018/2018-12-01.html"
       }
    ],
+   "Capture-Tiny" : [
+      {
+         "title" : "Wrapping output",
+         "url" : "https://perladvent.org/2014/2014-12-19.html"
+      }
+   ],
+   "Carp-Always" : [
+      {
+         "title" : "Warn Different",
+         "url" : "https://perladvent.org/2011/2011-12-04.html"
+      }
+   ],
+   "Carp-REPL" : [
+      {
+         "title" : "karp bożonarodzenie OR Dear Santa Please REPL",
+         "url" : "https://perladvent.org/2010/11/"
+      }
+   ],
+   "Champlain" : [
+      {
+         "title" : "Merry Christmap",
+         "url" : "https://perladvent.org/2010/5/"
+      }
+   ],
+   "Class-Accessor-Chained" : [
+      {
+         "title" : "Class::Accessor::Chained",
+         "url" : "https://perladvent.org/2004/3rd/"
+      }
+   ],
+   "Class-DBI" : [
+      {
+         "title" : "Class::DBI",
+         "url" : "https://perladvent.org/2002/23rd/"
+      }
+   ],
+   "Class-Data-Inheritable" : [
+      {
+         "title" : "Class::Data::Inheritable",
+         "url" : "https://perladvent.org/2002/20th/"
+      }
+   ],
+   "Class-ISA" : [
+      {
+         "title" : "Class::ISA",
+         "url" : "https://perladvent.org/2003/12th/"
+      }
+   ],
+   "Code-TidyAll" : [
+      {
+         "title" : "How Santa's Elves Keep their Workshop Tidy",
+         "url" : "https://perladvent.org/2014/2014-12-16.html"
+      }
+   ],
    "Code-TidyAll-Plugin-Test-Vars" : [
       {
          "title" : "Finding Unused Perl Variables",
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
+      }
+   ],
+   "Config-General" : [
+      {
+         "title" : "The Toy-O-Matic (3000X!)",
+         "url" : "https://perladvent.org/2008/18/"
+      }
+   ],
+   "Config-Station" : [
+      {
+         "title" : "Configuration Station",
+         "url" : "https://perladvent.org/2015/2015-12-12.html"
+      }
+   ],
+   "Const-Fast" : [
+      {
+         "title" : "Constantly Merry",
+         "url" : "https://perladvent.org/2017/2017-12-08.html"
       }
    ],
    "Context-Singleton" : [
@@ -91,7 +443,19 @@
          "url" : "https://perladvent.org/2018/2018-12-23.html"
       }
    ],
+   "Convert-CookingTimes" : [
+      {
+         "title" : "Calculating cooking times the easy way",
+         "url" : "https://perladvent.org/2015/2015-12-06.html"
+      }
+   ],
    "Cpanel-JSON-XS" : [
+      {
+         "title" : "REST API and the Baby",
+         "url" : "https://perladvent.org/2018/2018-12-03.html"
+      }
+   ],
+   "Cpanel-JSON-XS-Type" : [
       {
          "title" : "REST API and the Baby",
          "url" : "https://perladvent.org/2018/2018-12-03.html"
@@ -103,10 +467,88 @@
          "url" : "https://perladvent.org/2018/2018-12-08.html"
       }
    ],
+   "DBD-SQLite" : [
+      {
+         "title" : "DBD::SQLite",
+         "url" : "https://perladvent.org/2002/3rd/"
+      }
+   ],
+   "DBIx-Class" : [
+      {
+         "title" : "Set-based DBIx::Class",
+         "url" : "https://perladvent.org/2012/2012-12-21.html"
+      }
+   ],
+   "DBIx-Connector" : [
+      {
+         "title" : "Less Tedium More Transactions",
+         "url" : "https://perladvent.org/2011/2011-12-22.html"
+      }
+   ],
+   "DBIx-Introspector" : [
+      {
+         "title" : "Shake those gifts and figure out what's inside!",
+         "url" : "https://perladvent.org/2013/2013-12-14.html"
+      }
+   ],
+   "DBIx-Profile" : [
+      {
+         "title" : "Brown paper packages tied up with string",
+         "url" : "https://perladvent.org/2007/3/"
+      }
+   ],
+   "DBIx-RunSQL" : [
+      {
+         "title" : "Now I have an SQL machine gun",
+         "url" : "https://perladvent.org/2011/2011-12-12.html"
+      }
+   ],
+   "Dancer" : [
+      {
+         "title" : "Reindeer Games",
+         "url" : "https://perladvent.org/2012/2012-12-05.html"
+      }
+   ],
+   "Dancer-SearchApp" : [
+      {
+         "title" : "Organizing catalogues and wishlists with Dancer::SearchApp",
+         "url" : "https://perladvent.org/2016/2016-12-21.html"
+      }
+   ],
    "DarkSky-API" : [
       {
          "title" : "The Weather Outside Is Frightful",
          "url" : "https://perladvent.org/2019/2019-12-06.html"
+      }
+   ],
+   "Data-COW" : [
+      {
+         "title" : "Data::COW",
+         "url" : "https://perladvent.org/2005/15/"
+      }
+   ],
+   "Data-Dimensions" : [
+      {
+         "title" : "Data::Dimensions",
+         "url" : "https://perladvent.org/2003/9th/"
+      }
+   ],
+   "Data-Dumper-Simple" : [
+      {
+         "title" : "Data::Dumper::Simple",
+         "url" : "https://perladvent.org/2004/8th/"
+      }
+   ],
+   "Data-ICal" : [
+      {
+         "title" : "On the ... which day again?!?",
+         "url" : "https://perladvent.org/2007/1/"
+      }
+   ],
+   "Data-ICal-DateTime" : [
+      {
+         "title" : "Christmas Timekeeping",
+         "url" : "https://perladvent.org/2014/2014-12-18.html"
       }
    ],
    "Data-Password-zxcvbn" : [
@@ -115,10 +557,124 @@
          "url" : "https://perladvent.org/2019/2019-12-01.html"
       }
    ],
+   "Data-Printer" : [
+      {
+         "title" : "Checking Out Your Data Structures",
+         "url" : "https://perladvent.org/2012/2012-12-06.html"
+      }
+   ],
    "Data-Rmap" : [
       {
          "title" : "Data-Rmap - Santa's deepdive in an ocean of stockings.",
          "url" : "https://perladvent.org/2018/2018-12-05.html"
+      }
+   ],
+   "Data-SearchEngine" : [
+      {
+         "title" : "Taming Search with Data::SearchEngine",
+         "url" : "https://perladvent.org/2011/2011-12-09.html"
+      }
+   ],
+   "Data-Structure-Util" : [
+      {
+         "title" : "Data::Structure::Util",
+         "url" : "https://perladvent.org/2003/24th/"
+      }
+   ],
+   "Data-UUID" : [
+      {
+         "title" : "Data::UUID",
+         "url" : "https://perladvent.org/2004/10th/"
+      }
+   ],
+   "Date-Calc" : [
+      {
+         "title" : "Counting down the days...",
+         "url" : "https://perladvent.org/2006/20/"
+      }
+   ],
+   "Date-Parse" : [
+      {
+         "title" : "Date::Parse",
+         "url" : "https://perladvent.org/2003/14th/"
+      }
+   ],
+   "DateTime" : [
+      {
+         "title" : "DateTime",
+         "url" : "https://perladvent.org/2004/1st/"
+      }
+   ],
+   "DateTime-Moonpig" : [
+      {
+         "title" : "DateTimes",
+         "url" : "https://perladvent.org/2013/2013-12-23.html"
+      }
+   ],
+   "DateTime-TimeZone" : [
+      {
+         "title" : "Timely Flight Planning for a Sleigh",
+         "url" : "https://perladvent.org/2007/16/"
+      }
+   ],
+   "Devel-CompiledCalls" : [
+      {
+         "title" : "Present Confusion",
+         "url" : "https://perladvent.org/2013/2013-12-12.html"
+      }
+   ],
+   "Devel-Cover" : [
+      {
+         "title" : "Warm Fuzzy Coverage",
+         "url" : "https://perladvent.org/2006/21/"
+      }
+   ],
+   "Devel-DProf" : [
+      {
+         "title" : "Devel::DProf",
+         "url" : "https://perladvent.org/2002/25th/"
+      }
+   ],
+   "Devel-Eval" : [
+      {
+         "title" : "Debuggin' blinken strings",
+         "url" : "https://perladvent.org/2010/4/"
+      }
+   ],
+   "Devel-Hide" : [
+      {
+         "title" : "Help! Rudolf's Nose Won't Light Up!",
+         "url" : "https://perladvent.org/2015/2015-12-04.html"
+      }
+   ],
+   "Devel-MAT" : [
+      {
+         "title" : "A Christmas Memory",
+         "url" : "https://perladvent.org/2017/2017-12-12.html"
+      }
+   ],
+   "Devel-Size" : [
+      {
+         "title" : "Devel::Size",
+         "url" : "https://perladvent.org/2002/6th/"
+      }
+   ],
+   "Devel-SmallProf" : [
+      {
+         "title" : "Good things come in small packages",
+         "url" : "https://perladvent.org/2006/1/"
+      }
+   ],
+   "Devel-Trace" : [
+      {
+         "title" : "Devel::Trace",
+         "url" : "https://perladvent.org/2004/13th/"
+      }
+   ],
+   "Devel-cst" : [
+      {
+         "title" : "The Emergency Debugger",
+         "url" : "https://perladvent.org/2013/2013-12-24.html"
       }
    ],
    "Devel-hdb" : [
@@ -127,10 +683,70 @@
          "url" : "https://perladvent.org/2018/2018-12-21.html"
       }
    ],
+   "Device-Chip-Adapter" : [
+      {
+         "title" : "The Perl Powered Christmas Tree",
+         "url" : "https://perladvent.org/2015/2015-12-24.html"
+      }
+   ],
+   "Digest-BubbleBabble" : [
+      {
+         "title" : "xikoh-tomos-luhag-hycun-kupul-rulal-rudap-vysem-tacut-savyr-luxox",
+         "url" : "https://perladvent.org/2010/22/"
+      }
+   ],
+   "Dist-Zilla-LocaleTextDomain" : [
+      {
+         "title" : "Localize Your Perl Apps with this One Weird Trick",
+         "url" : "https://perladvent.org/2013/2013-12-09.html"
+      }
+   ],
+   "Dist-Zilla-Plugin-ReportVersions-Tiny" : [
+      {
+         "title" : "Which Library Broke?",
+         "url" : "https://perladvent.org/2012/2012-12-04.html"
+      }
+   ],
    "Dist-Zilla-Plugin-Test-TidyAll" : [
       {
          "title" : "Finding Unused Perl Variables",
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
+      }
+   ],
+   "Emoji-NationalFlag" : [
+      {
+         "title" : "Around the world with Emoji",
+         "url" : "https://perladvent.org/2017/2017-12-02.html"
+      }
+   ],
+   "Encode" : [
+      {
+         "title" : "Encode",
+         "url" : "https://perladvent.org/2004/11th/"
+      }
+   ],
+   "Enum" : [
+      {
+         "title" : "Three french toasts",
+         "url" : "https://perladvent.org/2005/24/"
+      }
+   ],
+   "Env-Sanctify" : [
+      {
+         "title" : "$HOME for the holidays",
+         "url" : "https://perladvent.org/2010/15/"
+      }
+   ],
+   "Eval-Closure" : [
+      {
+         "title" : "Evaluating the NaughtyNice Formula",
+         "url" : "https://perladvent.org/2017/2017-12-10.html"
+      }
+   ],
+   "Every" : [
+      {
+         "title" : "Let it go let it go let it go",
+         "url" : "https://perladvent.org/2009/4/"
       }
    ],
    "FFI-Platypus" : [
@@ -139,10 +755,112 @@
          "url" : "https://perladvent.org/2019/2019-12-04.html"
       }
    ],
+   "FFI-Raw" : [
+      {
+         "title" : "Foreign Function Interface and Perl",
+         "url" : "https://perladvent.org/2014/2014-12-10.html"
+      }
+   ],
+   "Fatal" : [
+      {
+         "title" : "Grandma Got Run Over by a Reindeer",
+         "url" : "https://perladvent.org/2006/10/"
+      }
+   ],
+   "File-AtomicWrite" : [
+      {
+         "title" : "Atomic Gift Wrapping",
+         "url" : "https://perladvent.org/2012/2012-12-08.html"
+      }
+   ],
+   "File-Find-Object" : [
+      {
+         "title" : "Peeking under the tree",
+         "url" : "https://perladvent.org/2006/2/"
+      }
+   ],
+   "File-Find-Rule" : [
+      {
+         "title" : "File::Find::Rule",
+         "url" : "https://perladvent.org/2002/11th/"
+      }
+   ],
+   "File-Flock-Tiny" : [
+      {
+         "title" : "Gift Wrapping part II: Locking the Room",
+         "url" : "https://perladvent.org/2012/2012-12-15.html"
+      }
+   ],
+   "File-HomeDir" : [
+      {
+         "title" : "I'll Be Home for Christmas",
+         "url" : "https://perladvent.org/2006/15/"
+      }
+   ],
+   "File-MMagic" : [
+      {
+         "title" : "File::MMagic",
+         "url" : "https://perladvent.org/2002/7th/"
+      }
+   ],
+   "File-ReadBackwards" : [
+      {
+         "title" : "He's making a list Checking it twice",
+         "url" : "https://perladvent.org/2007/6/"
+      }
+   ],
+   "File-Serialize" : [
+      {
+         "title" : "Garlands of YAML and JSON",
+         "url" : "https://perladvent.org/2015/2015-12-15.html"
+      }
+   ],
+   "File-ShareDir-Tarball" : [
+      {
+         "title" : "The Greatest Tradition of All",
+         "url" : "https://perladvent.org/2012/2012-12-10.html"
+      }
+   ],
+   "File-SortedSeek" : [
+      {
+         "title" : "Olly Olly Oxen Free",
+         "url" : "https://perladvent.org/2006/8/"
+      }
+   ],
+   "File-Which" : [
+      {
+         "title" : "All I want for Christmas is Perl 5.10",
+         "url" : "https://perladvent.org/2007/5/"
+      }
+   ],
+   "File-chdir" : [
+      {
+         "title" : "File::chdir",
+         "url" : "https://perladvent.org/2003/11th/"
+      }
+   ],
+   "Filesys-Virtual" : [
+      {
+         "title" : "Filesys::Virtual",
+         "url" : "https://perladvent.org/2004/20th/"
+      }
+   ],
+   "ForkBlock" : [
+      {
+         "title" : "Merry forking() Christmas",
+         "url" : "https://perladvent.org/2008/15/"
+      }
+   ],
    "GD" : [
       {
          "title" : "Animated GIFs",
          "url" : "https://perladvent.org/2019/2019-12-14.html"
+      }
+   ],
+   "GD-Simple" : [
+      {
+         "title" : "Putting Tinsel on the Tree",
+         "url" : "https://perladvent.org/2006/11/"
       }
    ],
    "GUIDeFATE" : [
@@ -151,16 +869,154 @@
          "url" : "https://perladvent.org/2019/2019-12-12.html"
       }
    ],
+   "Geo-Coder-OpenCage" : [
+      {
+         "title" : "Geocoding the world at volume with open data",
+         "url" : "https://perladvent.org/2016/2016-12-08.html"
+      }
+   ],
+   "Geo-Parser-Text" : [
+      {
+         "title" : "A Geo Parser for vast amounts of Text",
+         "url" : "https://perladvent.org/2016/2016-12-16.html"
+      }
+   ],
+   "GeoIP2" : [
+      {
+         "title" : "Where in the World?",
+         "url" : "https://perladvent.org/2015/2015-12-01.html"
+      }
+   ],
+   "Git-Hooks" : [
+      {
+         "title" : "Writing git hooks with Git::Hooks",
+         "url" : "https://perladvent.org/2016/2016-12-07.html"
+      }
+   ],
+   "GitStore" : [
+      {
+         "title" : "Toystore Story",
+         "url" : "https://perladvent.org/2013/2013-12-11.html"
+      }
+   ],
+   "Graph-Easy" : [
+      {
+         "title" : "Gift Exchanges as a Practical Example of Cyclic Directional Graphs",
+         "url" : "https://perladvent.org/2013/2013-12-04.html"
+      }
+   ],
+   "HTML-Entities" : [
+      {
+         "title" : "HTML::Entities",
+         "url" : "https://perladvent.org/2003/2nd/"
+      }
+   ],
+   "HTML-Lint" : [
+      {
+         "title" : "Keeping it clean",
+         "url" : "https://perladvent.org/2005/14/"
+      }
+   ],
+   "HTTP-Caching" : [
+      {
+         "title" : "speeding up the inter-web",
+         "url" : "https://perladvent.org/2016/2016-12-23.html"
+      }
+   ],
+   "HTTP-Message-PSGI" : [
+      {
+         "title" : "Draft Solution",
+         "url" : "https://perladvent.org/2019/2019-12-13.html"
+      }
+   ],
+   "HTTP-Tiny" : [
+      {
+         "title" : "Attention Seeking Behavior",
+         "url" : "https://perladvent.org/2014/2014-12-03.html"
+      }
+   ],
    "Hash-Flatten" : [
       {
          "title" : "Handling complex data structures",
          "url" : "https://perladvent.org/2018/2018-12-16.html"
       }
    ],
+   "Hook-LexWrap" : [
+      {
+         "title" : "Hook::LexWrap",
+         "url" : "https://perladvent.org/2003/3rd/"
+      }
+   ],
+   "IO-AtomicFile" : [
+      {
+         "title" : "IO::AtomicFile",
+         "url" : "https://perladvent.org/2002/2nd/"
+      }
+   ],
+   "IO-Prompt-Tiny" : [
+      {
+         "title" : "Making a list and checking it twice",
+         "url" : "https://perladvent.org/2012/2012-12-11.html"
+      }
+   ],
+   "IPC-Filter" : [
+      {
+         "title" : "Running in a filtered wonderland",
+         "url" : "https://perladvent.org/2008/8/"
+      }
+   ],
+   "IPC-Run3" : [
+      {
+         "title" : "Three I/O Channels Too Many Options & a Command to Run with IPC",
+         "url" : "https://perladvent.org/2006/14/"
+      }
+   ],
+   "Image-Size" : [
+      {
+         "title" : "Image::Size",
+         "url" : "https://perladvent.org/2002/5th/"
+      }
+   ],
    "Imager" : [
       {
          "title" : "We Wish You a Meme Christmas",
          "url" : "https://perladvent.org/2019/2019-12-24.html"
+      }
+   ],
+   "Import-Into" : [
+      {
+         "title" : "North Pole Safety Precautions",
+         "url" : "https://perladvent.org/2017/2017-12-06.html"
+      }
+   ],
+   "Inline-Java" : [
+      {
+         "title" : "Inline::Java",
+         "url" : "https://perladvent.org/2003/21st/"
+      }
+   ],
+   "Inline-TT" : [
+      {
+         "title" : "Inline::TT",
+         "url" : "https://perladvent.org/2002/19th/"
+      }
+   ],
+   "Interpolation" : [
+      {
+         "title" : "On the ordinate(6) day of X-Mas",
+         "url" : "https://perladvent.org/2005/6/"
+      }
+   ],
+   "JSON" : [
+      {
+         "title" : "Give and Receive the Right Number of Gifts",
+         "url" : "https://perladvent.org/2012/2012-12-23.html"
+      }
+   ],
+   "JSON-Path" : [
+      {
+         "title" : "(JSON::)Paths in the snow",
+         "url" : "https://perladvent.org/2015/2015-12-13.html"
       }
    ],
    "LWP" : [
@@ -175,10 +1031,164 @@
          "url" : "https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/"
       }
    ],
+   "LWP-Simple" : [
+      {
+         "title" : "LWP::Simple",
+         "url" : "https://perladvent.org/2003/22nd/"
+      }
+   ],
+   "Lingua-EN-Inflexion" : [
+      {
+         "title" : "Improving User Messages",
+         "url" : "https://perladvent.org/2015/2015-12-05.html"
+      }
+   ],
+   "Lingua-Ident" : [
+      {
+         "title" : "Mais si Virginie le Père Noël existe",
+         "url" : "https://perladvent.org/2008/4/"
+      }
+   ],
+   "Lingua-Translate" : [
+      {
+         "title" : "L-HO-HO-HO-st in translation",
+         "url" : "https://perladvent.org/2008/14/"
+      }
+   ],
+   "Linux-Clone" : [
+      {
+         "title" : "Using containers with Linux",
+         "url" : "https://perladvent.org/2016/2016-12-19.html"
+      }
+   ],
+   "Linux-Setns" : [
+      {
+         "title" : "Using containers with Linux",
+         "url" : "https://perladvent.org/2016/2016-12-19.html"
+      }
+   ],
+   "Linux-Unshare" : [
+      {
+         "title" : "Using containers with Linux",
+         "url" : "https://perladvent.org/2016/2016-12-19.html"
+      }
+   ],
+   "List-Gather" : [
+      {
+         "title" : "Gathering all the Presents",
+         "url" : "https://perladvent.org/2016/2016-12-05.html"
+      }
+   ],
+   "List-Util" : [
+      {
+         "title" : "Making Perl Functional",
+         "url" : "https://perladvent.org/2016/2016-12-15.html"
+      }
+   ],
+   "Log-Any" : [
+      {
+         "title" : "Yuletide Logging",
+         "url" : "https://perladvent.org/2016/2016-12-04.html"
+      }
+   ],
+   "Logfile-Rotate" : [
+      {
+         "title" : "Yule Log-Rolling",
+         "url" : "https://perladvent.org/2006/17/"
+      }
+   ],
+   "Lvalue" : [
+      {
+         "title" : "Noëlvalue",
+         "url" : "https://perladvent.org/2009/24/"
+      }
+   ],
+   "Mac-Glue" : [
+      {
+         "title" : "Mac::Glue",
+         "url" : "https://perladvent.org/2004/17th/"
+      }
+   ],
+   "Mac-Safari-JavaScript" : [
+      {
+         "title" : "Making a list checking it twice...",
+         "url" : "https://perladvent.org/2014/2014-12-02.html"
+      }
+   ],
+   "Magpie" : [
+      {
+         "title" : "REST-oring Christmas Tranquility",
+         "url" : "https://perladvent.org/2016/2016-12-11.html"
+      }
+   ],
+   "Mail-SpamAssassin" : [
+      {
+         "title" : "Mail::SpamAssassin",
+         "url" : "https://perladvent.org/2003/6th/"
+      }
+   ],
+   "Match-Smart" : [
+      {
+         "title" : "The children were smartly dressed in matching attire for the holidays",
+         "url" : "https://perladvent.org/2009/19/"
+      }
+   ],
+   "Math-BigApprox" : [
+      {
+         "title" : "Sleighing big numbers",
+         "url" : "https://perladvent.org/2008/3/"
+      }
+   ],
+   "Math-BigInt" : [
+      {
+         "title" : "Math::BigInt",
+         "url" : "https://perladvent.org/2003/16th/"
+      },
+      {
+         "title" : "On the 8E00000000 day of Advent my True Language brought to me...",
+         "url" : "https://perladvent.org/2005/8/"
+      }
+   ],
+   "Math-Combinatorics" : [
+      {
+         "title" : "Choosing the perfect secret santa",
+         "url" : "https://perladvent.org/2007/8/"
+      }
+   ],
+   "Math-Geometry-Voronoi" : [
+      {
+         "title" : "Oh Voronoi night…",
+         "url" : "https://perladvent.org/2010/17/"
+      }
+   ],
+   "Math-Prime-TiedArray" : [
+      {
+         "title" : "Primed for Christmas",
+         "url" : "https://perladvent.org/2008/2/"
+      }
+   ],
    "Memoize" : [
       {
          "title" : "Memories of Past Lives",
          "url" : "https://perladvent.org/2019/2019-12-19.html"
+      }
+   ],
+   "Memoize-Expire" : [
+      {
+         "title" : "Memories of Past Lives",
+         "url" : "https://perladvent.org/2019/2019-12-19.html"
+      }
+   ],
+   "Meta-Grapher-Moose" : [
+      {
+         "title" : "Graphing Moose Classes Automatically",
+         "url" : "https://perladvent.org/2016/2016-12-01.html"
+      }
+   ],
+   "MetaCPAN-Client" : [
+      {
+         "title" : "Finding CPAN distributions with github repositories",
+         "url" : "https://perladvent.org/2014/2014-12-15.html"
       }
    ],
    "Method-ParamValidator" : [
@@ -193,16 +1203,74 @@
          "url" : "https://perladvent.org/2019/2019-12-07.html"
       }
    ],
+   "Module-CPANFile" : [
+      {
+         "title" : "Just What Are You Installing Now?",
+         "url" : "https://perladvent.org/2015/2015-12-10.html"
+      }
+   ],
    "Module-CoreList" : [
       {
          "title" : "Core Strength",
          "url" : "https://perladvent.org/2019/2019-12-18.html"
       }
    ],
+   "Module-Pluggable" : [
+      {
+         "title" : "Module::Pluggable",
+         "url" : "https://perladvent.org/2004/6th/"
+      }
+   ],
+   "Module-ScanDeps" : [
+      {
+         "title" : "Should I expect help with my heating bill from Santa?",
+         "url" : "https://perladvent.org/2008/11/"
+      }
+   ],
+   "Module-Starter" : [
+      {
+         "title" : "Santa's Little Helper",
+         "url" : "https://perladvent.org/2006/6/"
+      }
+   ],
+   "Mojo" : [
+      {
+         "title" : "Mojolicious on the Command Line",
+         "url" : "https://perladvent.org/2017/2017-12-15.html"
+      }
+   ],
    "Mojo-AsyncAwait" : [
       {
          "title" : "Awaiting Christmas",
          "url" : "https://perladvent.org/2019/2019-12-10.html"
+      }
+   ],
+   "Mojo-Pg" : [
+      {
+         "title" : "Async PostgreSQL with Mojo::Pg",
+         "url" : "https://perladvent.org/2014/2014-12-09.html"
+      }
+   ],
+   "Mojo-Promise" : [
+      {
+         "title" : "Cute Christmas Animals",
+         "url" : "https://perladvent.org/2018/2018-12-19.html"
+      }
+   ],
+   "Mojo-Transaction-Websocket" : [
+      {
+         "title" : "Now With Added Interactivity",
+         "url" : "https://perladvent.org/2019/2019-12-11.html"
+      }
+   ],
+   "Mojo-UserAgent" : [
+      {
+         "title" : "Mojolicious as a client",
+         "url" : "https://perladvent.org/2011/2011-12-11.html"
+      },
+      {
+         "title" : "Escaping the Basement For Christmas",
+         "url" : "https://perladvent.org/2015/2015-12-23.html"
       }
    ],
    "Mojolicious" : [
@@ -213,6 +1281,46 @@
       {
          "title" : "Cute Christmas Animals",
          "url" : "https://perladvent.org/2018/2018-12-19.html"
+      }
+   ],
+   "MooX-Options" : [
+      {
+         "title" : "Now I Have Better Options",
+         "url" : "https://perladvent.org/2014/2014-12-13.html"
+      }
+   ],
+   "MooseX-AttributeShortcuts" : [
+      {
+         "title" : "For Elves Shorter is Better",
+         "url" : "https://perladvent.org/2017/2017-12-16.html"
+      }
+   ],
+   "MooseX-ClassAttribute" : [
+      {
+         "title" : "Project Multipli-sleigh-ion",
+         "url" : "https://perladvent.org/2017/2017-12-18.html"
+      }
+   ],
+   "MooseX-LazyRequire" : [
+      {
+         "title" : "Maybe not",
+         "url" : "https://perladvent.org/2017/2017-12-19.html"
+      }
+   ],
+   "MooseX-StrictConstructor" : [
+      {
+         "title" : "More Moose More Discipline",
+         "url" : "https://perladvent.org/2013/2013-12-19.html"
+      },
+      {
+         "title" : "Making a constructor argument list checking it twice.",
+         "url" : "https://perladvent.org/2017/2017-12-17.html"
+      }
+   ],
+   "MooseX-UndefTolerant-Attribute" : [
+      {
+         "title" : "Maybe not",
+         "url" : "https://perladvent.org/2017/2017-12-19.html"
       }
    ],
    "Mu" : [
@@ -227,10 +1335,46 @@
          "url" : "https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl"
       }
    ],
+   "Net-EmptyPort" : [
+      {
+         "title" : "Command Line Browser Apps",
+         "url" : "https://perladvent.org/2019/2019-12-09.html"
+      }
+   ],
+   "Net-Server" : [
+      {
+         "title" : "Net stockings are barely servicable gift receptacles",
+         "url" : "https://perladvent.org/2010/16/"
+      }
+   ],
+   "Net-Twitter-Lite" : [
+      {
+         "title" : "Four Naughty Tweeting Birds",
+         "url" : "https://perladvent.org/2010/20/"
+      }
+   ],
+   "Number-WithError" : [
+      {
+         "title" : "I'm Approximating a White Christmas",
+         "url" : "https://perladvent.org/2006/16/"
+      }
+   ],
    "OAuth-CmdLine" : [
       {
          "title" : "Christmas Tunes!",
          "url" : "https://perladvent.org/2018/2018-12-17.html"
+      }
+   ],
+   "OAuth-CmdLine-Spotify" : [
+      {
+         "title" : "Christmas Tunes!",
+         "url" : "https://perladvent.org/2018/2018-12-17.html"
+      }
+   ],
+   "Object-Realize-Later" : [
+      {
+         "title" : "Object::Realize::Later",
+         "url" : "https://perladvent.org/2002/12th/"
       }
    ],
    "Open-This" : [
@@ -239,10 +1383,126 @@
          "url" : "https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/"
       }
    ],
+   "PAR" : [
+      {
+         "title" : "PAR",
+         "url" : "https://perladvent.org/2003/25th/"
+      }
+   ],
+   "PAR-Dist" : [
+      {
+         "title" : "...and a PARtridge in a PAR tree",
+         "url" : "https://perladvent.org/2006/22/"
+      }
+   ],
+   "PDF-Reuse" : [
+      {
+         "title" : "PDF::Reuse",
+         "url" : "https://perladvent.org/2003/18th/"
+      },
+      {
+         "title" : "PDF-Reuse + Reduce & Recycle",
+         "url" : "https://perladvent.org/2016/2016-12-20.html"
+      }
+   ],
+   "PPI" : [
+      {
+         "title" : "Using PPI for static analysis",
+         "url" : "https://perladvent.org/2016/2016-12-14.html"
+      }
+   ],
+   "PPI-HTML" : [
+      {
+         "title" : "Pretty Pretty Pod",
+         "url" : "https://perladvent.org/2013/2013-12-20.html"
+      }
+   ],
+   "PPerl" : [
+      {
+         "title" : "PPerl",
+         "url" : "https://perladvent.org/2003/4th/"
+      }
+   ],
+   "PSGI/Plack" : [
+      {
+         "title" : "Web done better!",
+         "url" : "https://perladvent.org/2013/2013-12-07.html"
+      }
+   ],
+   "Package-Stash" : [
+      {
+         "title" : "Unwrapping the Package(::Stash)",
+         "url" : "https://perladvent.org/2011/2011-12-07.html"
+      }
+   ],
+   "Parallel-Jobs" : [
+      {
+         "title" : "Parallels parallels it's Christmas time in the city",
+         "url" : "https://perladvent.org/2007/2/"
+      }
+   ],
+   "Params-Util" : [
+      {
+         "title" : "It Boiled Plate So You Don't Have To!",
+         "url" : "https://perladvent.org/2011/2011-12-23.html"
+      }
+   ],
+   "Params-Validate" : [
+      {
+         "title" : "Params::Validate",
+         "url" : "https://perladvent.org/2002/10th/"
+      }
+   ],
+   "Params-Validate-Dependencies" : [
+      {
+         "title" : "Too Many Choices For Santa",
+         "url" : "https://perladvent.org/2016/2016-12-09.html"
+      }
+   ],
+   "Params-ValidationCompiler" : [
+      {
+         "title" : "Speedy Validation",
+         "url" : "https://perladvent.org/2017/2017-12-23.html"
+      }
+   ],
+   "Path-Class" : [
+      {
+         "title" : "Sweet Path::Class is Coming to Town",
+         "url" : "https://perladvent.org/2012/2012-12-01.html"
+      }
+   ],
+   "Path-Class-Rule" : [
+      {
+         "title" : "Process ALL the FILES!",
+         "url" : "https://perladvent.org/2011/2011-12-19.html"
+      }
+   ],
+   "Path-Tiny" : [
+      {
+         "title" : "The little module that keeps on giving",
+         "url" : "https://perladvent.org/2013/2013-12-18.html"
+      },
+      {
+         "title" : "Tiny Path Handling",
+         "url" : "https://perladvent.org/2017/2017-12-11.html"
+      }
+   ],
    "Paws" : [
       {
          "title" : "Paws to Plan What Todo",
          "url" : "https://perladvent.org/2019/2019-12-16.html"
+      }
+   ],
+   "Perl-Compare" : [
+      {
+         "title" : "Nothing compares to you",
+         "url" : "https://perladvent.org/2005/20/"
+      }
+   ],
+   "Perl-Critic" : [
+      {
+         "title" : "Context Matters",
+         "url" : "https://perladvent.org/2017/2017-12-03.html"
       }
    ],
    "Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter" : [
@@ -251,10 +1511,58 @@
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
       }
    ],
+   "Perl-Metrics-Simple" : [
+      {
+         "title" : "The Complexity of Perl",
+         "url" : "https://perladvent.org/2014/2014-12-08.html"
+      }
+   ],
+   "Perl-MinimumVersion" : [
+      {
+         "title" : "All I want for Christmas is something newer than 5.5.3",
+         "url" : "https://perladvent.org/2010/14/"
+      }
+   ],
+   "Perl-PrereqScanner" : [
+      {
+         "title" : "Prereqing around the Christmas Tree",
+         "url" : "https://perladvent.org/2017/2017-12-14.html"
+      }
+   ],
+   "Perl6-Junction" : [
+      {
+         "title" : "Conjunction Junction",
+         "url" : "https://perladvent.org/2005/11/"
+      }
+   ],
    "PerlIO-gzip" : [
       {
          "title" : "Christmas Movie Time!",
          "url" : "https://perladvent.org/2019/2019-12-08.html"
+      }
+   ],
+   "PerlIO-zip" : [
+      {
+         "title" : "Christmas Movie Time!",
+         "url" : "https://perladvent.org/2019/2019-12-08.html"
+      }
+   ],
+   "Perldoc-Server" : [
+      {
+         "title" : "All Your Documentation Even Offline",
+         "url" : "https://perladvent.org/2011/2011-12-16.html"
+      }
+   ],
+   "Pinto" : [
+      {
+         "title" : "Santa Has Dependencies Too",
+         "url" : "https://perladvent.org/2012/2012-12-17.html"
+      }
+   ],
+   "Pixie" : [
+      {
+         "title" : "Pixie",
+         "url" : "https://perladvent.org/2002/24th/"
       }
    ],
    "Plack" : [
@@ -263,10 +1571,226 @@
          "url" : "https://perladvent.org/2019/2019-12-13.html"
       }
    ],
+   "Plack-App-Path-Router" : [
+      {
+         "title" : "A Holiday PAPR-ation",
+         "url" : "https://perladvent.org/2014/2014-12-22.html"
+      }
+   ],
+   "Pod-Cpandoc" : [
+      {
+         "title" : "Install Even Less",
+         "url" : "https://perladvent.org/2011/2011-12-15.html"
+      }
+   ],
+   "Pod-Simple" : [
+      {
+         "title" : "Subclassing all the way!",
+         "url" : "https://perladvent.org/2007/17/"
+      }
+   ],
+   "Pod-Usage" : [
+      {
+         "title" : "Santa makes a list and checks it twice...",
+         "url" : "https://perladvent.org/2006/12/"
+      }
+   ],
+   "Proc-Daemon" : [
+      {
+         "title" : "Proc::Daemon",
+         "url" : "https://perladvent.org/2004/9th/"
+      }
+   ],
+   "Process-Status" : [
+      {
+         "title" : "No More Leaking Glue",
+         "url" : "https://perladvent.org/2015/2015-12-17.html"
+      }
+   ],
+   "RDF-Query" : [
+      {
+         "title" : "Semantic Perl",
+         "url" : "https://perladvent.org/2013/2013-12-01.html"
+      }
+   ],
+   "RDF-Trine" : [
+      {
+         "title" : "Semantic Perl",
+         "url" : "https://perladvent.org/2013/2013-12-01.html"
+      }
+   ],
+   "Redis" : [
+      {
+         "title" : "Perl and Redis",
+         "url" : "https://perladvent.org/2015/2015-12-20.html"
+      }
+   ],
+   "Ref-Util" : [
+      {
+         "title" : "Jingle Refs Jingle Refs Jingle all the way",
+         "url" : "https://perladvent.org/2016/2016-12-02.html"
+      }
+   ],
+   "Regex-Common" : [
+      {
+         "title" : "Regex::Common",
+         "url" : "https://perladvent.org/2003/20th/"
+      }
+   ],
+   "Regexp-Assemble" : [
+      {
+         "title" : "O Christmas Trie! O Christmas Trie!",
+         "url" : "https://perladvent.org/2005/18/"
+      }
+   ],
+   "Regexp-Keep" : [
+      {
+         "title" : "A penny saved is a penny earned",
+         "url" : "https://perladvent.org/2005/13/"
+      }
+   ],
+   "Regexp-Subst-Parallel" : [
+      {
+         "title" : "Egg substitute nog",
+         "url" : "https://perladvent.org/2008/22/"
+      }
+   ],
+   "Reindeer" : [
+      {
+         "title" : "Reindeer",
+         "url" : "https://perladvent.org/2017/2017-12-20.html"
+      }
+   ],
+   "Reply" : [
+      {
+         "title" : "Live programming perl with Reply",
+         "url" : "https://perladvent.org/2015/2015-12-08.html"
+      }
+   ],
+   "SQL-Abstract" : [
+      {
+         "title" : "SQL::Abstract",
+         "url" : "https://perladvent.org/2004/14th/"
+      }
+   ],
    "SVG" : [
       {
          "title" : "Growing Christmas Trees",
          "url" : "https://perladvent.org/2018/2018-12-12.html"
+      }
+   ],
+   "SVG-ChristmasTree" : [
+      {
+         "title" : "Growing Christmas Trees",
+         "url" : "https://perladvent.org/2018/2018-12-12.html"
+      }
+   ],
+   "Safe" : [
+      {
+         "title" : "Is your code… Safe?",
+         "url" : "https://perladvent.org/2012/2012-12-07.html"
+      }
+   ],
+   "Safe-Isa" : [
+      {
+         "title" : "Playing it safe with Safe::Isa",
+         "url" : "https://perladvent.org/2013/2013-12-05.html"
+      }
+   ],
+   "Schedule-LongSteps" : [
+      {
+         "title" : "Help Santa Klaus Reward Only Nice Children",
+         "url" : "https://perladvent.org/2016/2016-12-06.html"
+      }
+   ],
+   "Scope-Upper" : [
+      {
+         "title" : "Sleigh Upgrade",
+         "url" : "https://perladvent.org/2012/2012-12-03.html"
+      }
+   ],
+   "SelfLoader" : [
+      {
+         "title" : "Loads of Christmas cheer",
+         "url" : "https://perladvent.org/2008/16/"
+      }
+   ],
+   "Sereal" : [
+      {
+         "title" : "Christmas Wishes",
+         "url" : "https://perladvent.org/2015/2015-12-18.html"
+      }
+   ],
+   "Set-Array" : [
+      {
+         "title" : "Setting the bar high with an array of unique gifts",
+         "url" : "https://perladvent.org/2010/2/"
+      }
+   ],
+   "Set-CrossProduct" : [
+      {
+         "title" : "Make all the combinations",
+         "url" : "https://perladvent.org/2011/2011-12-06.html"
+      }
+   ],
+   "Shell" : [
+      {
+         "title" : "The Nutcracker",
+         "url" : "https://perladvent.org/2006/13/"
+      }
+   ],
+   "Smart-Comments" : [
+      {
+         "title" : "Extracting more value out of your script's comments",
+         "url" : "https://perladvent.org/2015/2015-12-11.html"
+      }
+   ],
+   "Sort-ByExample" : [
+      {
+         "title" : "Santa Sorts By Example",
+         "url" : "https://perladvent.org/2015/2015-12-19.html"
+      }
+   ],
+   "Sort-Half-Maker" : [
+      {
+         "title" : "Xmas sort of title",
+         "url" : "https://perladvent.org/2008/24/"
+      }
+   ],
+   "Sort-Maker" : [
+      {
+         "title" : "Sorting things out...",
+         "url" : "https://perladvent.org/2005/23/"
+      }
+   ],
+   "Stepford" : [
+      {
+         "title" : "Building Santa's Naughty and Nice List with Stepford",
+         "url" : "https://perladvent.org/2015/2015-12-16.html"
+      }
+   ],
+   "String-Errf" : [
+      {
+         "title" : "Throw Now Describe Later",
+         "url" : "https://perladvent.org/2013/2013-12-22.html"
+      }
+   ],
+   "String-ShellQuote" : [
+      {
+         "title" : "String::ShellQuote",
+         "url" : "https://perladvent.org/2004/4th/"
+      }
+   ],
+   "Struct-Dumb" : [
+      {
+         "title" : "Dumb In-struct-ions",
+         "url" : "https://perladvent.org/2014/2014-12-20.html"
+      }
+   ],
+   "Sub-Curry" : [
+      {
+         "title" : "Baby it's cold outside so why don't we tuck into a curry?",
+         "url" : "https://perladvent.org/2008/6/"
       }
    ],
    "Sub-Params" : [
@@ -275,10 +1799,142 @@
          "url" : "https://perladvent.org/2018/2018-12-13.html"
       }
    ],
+   "Sub-Util" : [
+      {
+         "title" : "A Subroutine By Any Other Name",
+         "url" : "https://perladvent.org/2014/2014-12-05.html"
+      }
+   ],
+   "Sub-Versive" : [
+      {
+         "title" : "E.L.F.",
+         "url" : "https://perladvent.org/2007/9/"
+      }
+   ],
+   "Syntax-Collector" : [
+      {
+         "title" : "Creating Your Own Perl",
+         "url" : "https://perladvent.org/2012/2012-12-16.html"
+      }
+   ],
+   "Syntax-Keyord-Try" : [
+      {
+         "title" : "Trying for a Happy Christmas",
+         "url" : "https://perladvent.org/2016/2016-12-12.html"
+      }
+   ],
+   "Sys-Hostname" : [
+      {
+         "title" : "Sys::Hostname",
+         "url" : "https://perladvent.org/2004/21st/"
+      }
+   ],
+   "Template-Extract" : [
+      {
+         "title" : "Template::Extract",
+         "url" : "https://perladvent.org/2003/5th/"
+      }
+   ],
+   "Term-ANSIColor" : [
+      {
+         "title" : "Term::ANSIColor",
+         "url" : "https://perladvent.org/2004/2nd/"
+      }
+   ],
+   "Term-Animation" : [
+      {
+         "title" : "Excited elfs",
+         "url" : "https://perladvent.org/2008/25/"
+      }
+   ],
+   "Term-Choose" : [
+      {
+         "title" : "Choices choices so many choices!",
+         "url" : "https://perladvent.org/2017/2017-12-07.html"
+      }
+   ],
+   "Term-ProgressBar" : [
+      {
+         "title" : "Term::ProgressBar",
+         "url" : "https://perladvent.org/2004/7th/"
+      }
+   ],
+   "Test-Builder" : [
+      {
+         "title" : "Test::Builder",
+         "url" : "https://perladvent.org/2002/4th/"
+      }
+   ],
+   "Test-DatabaseRow" : [
+      {
+         "title" : "Testing The Naughty Or Nice Database",
+         "url" : "https://perladvent.org/2014/2014-12-06.html"
+      }
+   ],
+   "Test-Differences" : [
+      {
+         "title" : "You don't get a belly like this drinking skim milk",
+         "url" : "https://perladvent.org/2007/4/"
+      }
+   ],
    "Test-Excel" : [
       {
          "title" : "Test/Compare Your Excel",
          "url" : "https://perladvent.org/2018/2018-12-18.html"
+      }
+   ],
+   "Test-Inline" : [
+      {
+         "title" : "Test::Inline",
+         "url" : "https://perladvent.org/2003/10th/"
+      }
+   ],
+   "Test-Kit" : [
+      {
+         "title" : "All I want for Christmas is less boilerplate",
+         "url" : "https://perladvent.org/2014/2014-12-14.html"
+      }
+   ],
+   "Test-LWP-UserAgent" : [
+      {
+         "title" : "Testing networking client code using Test::LWP::UserAgent",
+         "url" : "https://perladvent.org/2012/2012-12-12.html"
+      }
+   ],
+   "Test-MockObject" : [
+      {
+         "title" : "Test::MockObject",
+         "url" : "https://perladvent.org/2002/14th/"
+      }
+   ],
+   "Test-Perl-Critic" : [
+      {
+         "title" : "Everyone loves a critic",
+         "url" : "https://perladvent.org/2005/19/"
+      }
+   ],
+   "Test-Perl-Critic-Progressive" : [
+      {
+         "title" : "Resolution for next year: 1280x1024 or better",
+         "url" : "https://perladvent.org/2008/23/"
+      }
+   ],
+   "Test-Pretty" : [
+      {
+         "title" : "Better Testing",
+         "url" : "https://perladvent.org/2012/2012-12-20.html"
+      }
+   ],
+   "Test-Requires" : [
+      {
+         "title" : "Optional tests for optional requirements",
+         "url" : "https://perladvent.org/2014/2014-12-17.html"
+      }
+   ],
+   "Test-Routine" : [
+      {
+         "title" : "Revisiting Test::Routine",
+         "url" : "https://perladvent.org/2011/2011-12-20.html"
       }
    ],
    "Test-Simple" : [
@@ -293,10 +1949,22 @@
          "url" : "https://perladvent.org/2019/2019-12-09.html"
       }
    ],
+   "Test-TempDir-Tiny" : [
+      {
+         "title" : "No Room At The I.N.N.",
+         "url" : "https://perladvent.org/2014/2014-12-01.html"
+      }
+   ],
    "Test-Vars" : [
       {
          "title" : "Finding Unused Perl Variables",
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
+      }
+   ],
+   "Test2-Compare-Base" : [
+      {
+         "title" : "Comparing More",
+         "url" : "https://perladvent.org/2019/2019-12-22.html"
       }
    ],
    "Test2-Harness" : [
@@ -315,10 +1983,142 @@
          "url" : "https://perladvent.org/2019/2019-12-22.html"
       }
    ],
+   "Test2-V0" : [
+      {
+         "title" : "Test2: Test Harder (but easier)",
+         "url" : "https://perladvent.org/2019/2019-12-21.html"
+      }
+   ],
+   "Text-BarGraph" : [
+      {
+         "title" : "On the 2nd day of Xmas Santa hits the bar pretty hard!",
+         "url" : "https://perladvent.org/2010/18/"
+      }
+   ],
    "Text-CSV-Pivot" : [
       {
          "title" : "Convert CSV to Pivot Table",
          "url" : "https://perladvent.org/2018/2018-12-07.html"
+      }
+   ],
+   "Text-Diff" : [
+      {
+         "title" : "What's the diff between a biscuit and a reindeer?",
+         "url" : "https://perladvent.org/2006/18/"
+      }
+   ],
+   "Text-FIGlet" : [
+      {
+         "title" : "It went zip when it moved and bopped when it stopped and whirred when it stood still",
+         "url" : "https://perladvent.org/2005/25/"
+      }
+   ],
+   "Text-Fuzzy" : [
+      {
+         "title" : "Warm and Fuzzy Inside",
+         "url" : "https://perladvent.org/2016/2016-12-18.html"
+      }
+   ],
+   "Text-Glob" : [
+      {
+         "title" : "Text::Glob",
+         "url" : "https://perladvent.org/2003/15th/"
+      }
+   ],
+   "Text-Hogan" : [
+      {
+         "title" : "Sharing templates will get you on the nice list",
+         "url" : "https://perladvent.org/2015/2015-12-07.html"
+      }
+   ],
+   "Text-ParagraphDiff" : [
+      {
+         "title" : "Twas the night before diffmas",
+         "url" : "https://perladvent.org/2010/24/"
+      }
+   ],
+   "Text-SpellChecker" : [
+      {
+         "title" : "For Krismash I wante a pony (pleez)",
+         "url" : "https://perladvent.org/2008/13/"
+      }
+   ],
+   "Text-Unidecode" : [
+      {
+         "title" : "Text::Unidecode",
+         "url" : "https://perladvent.org/2004/12th/"
+      }
+   ],
+   "Text-VimColor" : [
+      {
+         "title" : "Pretty Pretty Pod",
+         "url" : "https://perladvent.org/2013/2013-12-20.html"
+      }
+   ],
+   "Text-vCard" : [
+      {
+         "title" : "Checking the list twice",
+         "url" : "https://perladvent.org/2007/24/"
+      }
+   ],
+   "Tie-CharArray" : [
+      {
+         "title" : "New Winter Spectator Sport - Thongs & Toboggans",
+         "url" : "https://perladvent.org/2009/2/"
+      }
+   ],
+   "Tie-File" : [
+      {
+         "title" : "Tie::File",
+         "url" : "https://perladvent.org/2002/21st/"
+      }
+   ],
+   "Time-Duration" : [
+      {
+         "title" : "How many days until Christmas?",
+         "url" : "https://perladvent.org/2013/2013-12-17.html"
+      }
+   ],
+   "Time-Limit" : [
+      {
+         "title" : "Out of Time",
+         "url" : "https://perladvent.org/2014/2014-12-07.html"
+      }
+   ],
+   "Time-Out" : [
+      {
+         "title" : "I can hardly wait",
+         "url" : "https://perladvent.org/2007/25/"
+      }
+   ],
+   "Tk" : [
+      {
+         "title" : "Twelve Intrepid Ibex pulling a load of open source",
+         "url" : "https://perladvent.org/2008/12/"
+      }
+   ],
+   "Tkx" : [
+      {
+         "title" : "Tkx Tkx Tkx… is Christmas every going to get here?",
+         "url" : "https://perladvent.org/2010/13/"
+      }
+   ],
+   "Treemap" : [
+      {
+         "title" : "Data decorating the tips of a Christmas Treemap",
+         "url" : "https://perladvent.org/2006/3/"
+      }
+   ],
+   "Try-Tiny" : [
+      {
+         "title" : "There is No Try",
+         "url" : "https://perladvent.org/2011/2011-12-17.html"
+      }
+   ],
+   "Type-Tiny" : [
+      {
+         "title" : "A Tiny But Powerful Type System",
+         "url" : "https://perladvent.org/2014/2014-12-11.html"
       }
    ],
    "URI" : [
@@ -327,10 +2127,70 @@
          "url" : "https://www.olafalders.com/2016/07/12/dont-forget-about-uriheuristic/"
       }
    ],
+   "URI-Find" : [
+      {
+         "title" : "URI::Find",
+         "url" : "https://perladvent.org/2002/1st/"
+      }
+   ],
+   "Unicode-Tussle" : [
+      {
+         "title" : "Where Does He Get Those Wonderful Codepoints?",
+         "url" : "https://perladvent.org/2011/2011-12-24.html"
+      }
+   ],
+   "Unicode-UCD" : [
+      {
+         "title" : "It's All There in the Numbers!",
+         "url" : "https://perladvent.org/2017/2017-12-13.html"
+      }
+   ],
    "WWW-Mechanize" : [
       {
          "title" : "WWW::Mechanize Best Practices",
          "url" : "https://www.olafalders.com/2018/04/13/wwwmechanize-best-practices/"
+      }
+   ],
+   "WWW-YouTube-Download" : [
+      {
+         "title" : "Watching The Perl Conference",
+         "url" : "https://perladvent.org/2017/2017-12-24.html"
+      }
+   ],
+   "Wallflower" : [
+      {
+         "title" : "Generate static web sites using your favorite Perl framework",
+         "url" : "https://perladvent.org/2012/2012-12-22.html"
+      }
+   ],
+   "Want" : [
+      {
+         "title" : "All I want for christmas...",
+         "url" : "https://perladvent.org/2005/21/"
+      }
+   ],
+   "Web-Machine" : [
+      {
+         "title" : "Have REST-ful Holidays",
+         "url" : "https://perladvent.org/2012/2012-12-24.html"
+      }
+   ],
+   "Web-Query" : [
+      {
+         "title" : "Scrape the Halls",
+         "url" : "https://perladvent.org/2015/2015-12-09.html"
+      }
+   ],
+   "WebPerl" : [
+      {
+         "title" : "Perl in the Browser",
+         "url" : "https://perladvent.org/2018/2018-12-02.html"
+      }
+   ],
+   "WebService-FindMyiPhone" : [
+      {
+         "title" : "Find My Santa",
+         "url" : "https://perladvent.org/2013/2013-12-06.html"
       }
    ],
    "WebService-HIBP" : [
@@ -339,16 +2199,158 @@
          "url" : "https://perladvent.org/2019/2019-12-02.html"
       }
    ],
+   "Whatever" : [
+      {
+         "title" : "So umm I told Santa what I wanted and he was totally like whatever…",
+         "url" : "https://perladvent.org/2010/19/"
+      }
+   ],
+   "Win32-GUI" : [
+      {
+         "title" : "Seasonal Help",
+         "url" : "https://perladvent.org/2010/3/"
+      }
+   ],
+   "XLSperl" : [
+      {
+         "title" : "Spreading Christmas Cheer",
+         "url" : "https://perladvent.org/2010/6/"
+      }
+   ],
+   "XML-Feed" : [
+      {
+         "title" : "Feast on this",
+         "url" : "https://perladvent.org/2006/19/"
+      }
+   ],
+   "XML-Handler-AxPoint" : [
+      {
+         "title" : "XML::Handler::AxPoint",
+         "url" : "https://perladvent.org/2002/8th/"
+      }
+   ],
    "XML-LibXML" : [
       {
          "title" : "Perl XML::LibXML by Example",
          "url" : "https://grantm.github.io/perl-libxml-by-example/"
       }
    ],
+   "XML-RSS-SimpleGen" : [
+      {
+         "title" : "On the 16th day of Advent my True Language syndicated for me...",
+         "url" : "https://perladvent.org/2005/16/"
+      },
+      {
+         "title" : "Reindeer sausage",
+         "url" : "https://perladvent.org/2005/17/"
+      }
+   ],
+   "XML-SAX" : [
+      {
+         "title" : "XML::SAX",
+         "url" : "https://perladvent.org/2002/9th/"
+      }
+   ],
+   "XML-Twig" : [
+      {
+         "title" : "Santy Claus why? Why are you taking our Perl module? WHY?",
+         "url" : "https://perladvent.org/2009/6/"
+      }
+   ],
+   "YAML" : [
+      {
+         "title" : "YAML",
+         "url" : "https://perladvent.org/2002/15th/"
+      }
+   ],
+   "YAPE-Regex-Explain" : [
+      {
+         "title" : "Tangled Tidings",
+         "url" : "https://perladvent.org/2010/1/"
+      }
+   ],
+   "adenosine" : [
+      {
+         "title" : "Take a little REST",
+         "url" : "https://perladvent.org/2012/2012-12-13.html"
+      }
+   ],
+   "criticism" : [
+      {
+         "title" : "Happy Holidays You Bastard",
+         "url" : "https://perladvent.org/2006/23/"
+      }
+   ],
+   "dbicdump" : [
+      {
+         "title" : "Quickly Building DBIx::Class Schemas",
+         "url" : "https://perladvent.org/2017/2017-12-21.html"
+      }
+   ],
+   "feature" : [
+      {
+         "title" : "The Perl of Christmas Future",
+         "url" : "https://perladvent.org/2015/2015-12-21.html"
+      }
+   ],
+   "forks" : [
+      {
+         "title" : "Spoon!",
+         "url" : "https://perladvent.org/2007/11/"
+      }
+   ],
+   "iSH" : [
+      {
+         "title" : "Christmas-iSH",
+         "url" : "https://perladvent.org/2018/2018-12-20.html"
+      }
+   ],
+   "if" : [
+      {
+         "title" : "If if use use if",
+         "url" : "https://perladvent.org/2014/2014-12-12.html"
+      }
+   ],
    "lazy" : [
       {
          "title" : "How lazy am I?",
          "url" : "https://www.olafalders.com/2018/08/21/how-lazy-am-i/"
+      }
+   ],
+   "local-lib" : [
+      {
+         "title" : "Keeping the Packages Neatly Wrapped Up",
+         "url" : "https://perladvent.org/2011/2011-12-01.html"
+      }
+   ],
+   "namespace-autoclean" : [
+      {
+         "title" : "Keep it Clean",
+         "url" : "https://perladvent.org/2011/2011-12-03.html"
+      }
+   ],
+   "pmtools" : [
+      {
+         "title" : "Stocking Stuffers",
+         "url" : "https://perladvent.org/2009/16/"
+      }
+   ],
+   "rename" : [
+      {
+         "title" : "Munge All the Filenames!",
+         "url" : "https://perladvent.org/2011/2011-12-18.html"
+      }
+   ],
+   "selfvars" : [
+      {
+         "title" : "Selfless gifting",
+         "url" : "https://perladvent.org/2010/8/"
+      }
+   ],
+   "utf8-all" : [
+      {
+         "title" : "A Shortcut to Unicode",
+         "url" : "https://perladvent.org/2011/2011-12-21.html"
       }
    ]
 }
