@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Install modules
       run: |
@@ -29,8 +29,8 @@ jobs:
       run: |
         GIT_STATUS=$(git status --porcelain)
         echo $GIT_STATUS
-        git config --global user.name 'Dave Cross'
-        git config --global user.email 'dave@perlhacks.com'
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add docs/
         if [ "$GIT_STATUS" != "" ]; then git commit -m "Automated Web page generation"; fi
         if [ "$GIT_STATUS" != "" ]; then git push; fi
