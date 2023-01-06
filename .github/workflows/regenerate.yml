@@ -27,6 +27,7 @@ jobs:
     - name: Commit new page
       if: github.repository == 'davorg/learncpan'
       run: |
+        git config --global --add safe.directory /__w/learncpan/learncpan
         GIT_STATUS=$(git status --porcelain)
         echo $GIT_STATUS
         git config user.name github-actions[bot]
