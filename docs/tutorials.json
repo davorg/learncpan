@@ -93,6 +93,12 @@
          "url" : "https://perladvent.org/2008/21/"
       }
    ],
+   "App-CGIThis" : [
+      {
+         "title" : "northpole.cgi",
+         "url" : "https://perladvent.org/2022/2022-12-04.html"
+      }
+   ],
    "App-FatPacker" : [
       {
          "title" : "Self-contained applications",
@@ -323,6 +329,12 @@
          "url" : "https://www.olafalders.com/2015/09/04/stop-writing-your-own-commify-functions/"
       }
    ],
+   "CPAN-Audit" : [
+      {
+         "title" : "Find known reported vulnerabilities in the modules you use",
+         "url" : "https://perladvent.org/2022/2022-12-19.html"
+      }
+   ],
    "CPAN-Mini" : [
       {
          "title" : "CPAN::Mini",
@@ -377,10 +389,28 @@
          "url" : "https://perladvent.org/2010/11/"
       }
    ],
+   "Carton" : [
+      {
+         "title" : "Lapland Packaging Department - Part 2",
+         "url" : "https://perladvent.org/2022/2022-12-21.html"
+      }
+   ],
    "Champlain" : [
       {
          "title" : "Merry Christmap",
          "url" : "https://perladvent.org/2010/5/"
+      }
+   ],
+   "Chart-Bars" : [
+      {
+         "title" : "Looking at the Christmas Numbers",
+         "url" : "https://perladvent.org/2022/2022-12-24.html"
+      }
+   ],
+   "Chart-Lines" : [
+      {
+         "title" : "At the Present Factory",
+         "url" : "https://perladvent.org/2022/2022-12-23.html"
       }
    ],
    "Class-Accessor-Chained" : [
@@ -767,6 +797,12 @@
          "url" : "https://perladvent.org/2006/10/"
       }
    ],
+   "Feature-Compat-Try" : [
+      {
+         "title" : "The Christmas Time Machine",
+         "url" : "https://perladvent.org/2022/2022-12-10.html"
+      }
+   ],
    "File-AtomicWrite" : [
       {
          "title" : "Atomic Gift Wrapping",
@@ -903,6 +939,12 @@
       {
          "title" : "Gift Exchanges as a Practical Example of Cyclic Directional Graphs",
          "url" : "https://perladvent.org/2013/2013-12-04.html"
+      }
+   ],
+   "GraphViz2" : [
+      {
+         "title" : "The Delivery Map",
+         "url" : "https://perladvent.org/2022/2022-12-12.html"
       }
    ],
    "HTML-Entities" : [
@@ -1103,6 +1145,12 @@
          "url" : "https://perladvent.org/2009/24/"
       }
    ],
+   "MIME-Base64" : [
+      {
+         "title" : "TWVycnkgQ2hyaXN0bWFzIDop",
+         "url" : "https://perladvent.org/2022/2022-12-18.html"
+      }
+   ],
    "Mac-Glue" : [
       {
          "title" : "Mac::Glue",
@@ -1125,6 +1173,12 @@
       {
          "title" : "Mail::SpamAssassin",
          "url" : "https://perladvent.org/2003/6th/"
+      }
+   ],
+   "Mango" : [
+      {
+         "title" : "Catching dreams",
+         "url" : "https://perladvent.org/2022/2022-12-05.html"
       }
    ],
    "Match-Smart" : [
@@ -1195,6 +1249,12 @@
       {
          "title" : "Validation",
          "url" : "https://perladvent.org/2018/2018-12-22.html"
+      }
+   ],
+   "Mite" : [
+      {
+         "title" : "Silent Mite",
+         "url" : "https://perladvent.org/2022/2022-12-01.html"
       }
    ],
    "Mo" : [
@@ -1283,6 +1343,12 @@
          "url" : "https://perladvent.org/2018/2018-12-19.html"
       }
    ],
+   "Mojolicious-Plugin-RevealJS" : [
+      {
+         "title" : "Create Professional Slideshows with Mojolicious::Plugin::RevealJS",
+         "url" : "https://perladvent.org/2022/2022-12-15.html"
+      }
+   ],
    "MooX-Options" : [
       {
          "title" : "Now I Have Better Options",
@@ -1299,6 +1365,12 @@
       {
          "title" : "Project Multipli-sleigh-ion",
          "url" : "https://perladvent.org/2017/2017-12-18.html"
+      }
+   ],
+   "MooseX-Getopt" : [
+      {
+         "title" : "MooseX::Getopt saves Christmas",
+         "url" : "https://perladvent.org/2022/2022-12-02.html"
       }
    ],
    "MooseX-LazyRequire" : [
@@ -1333,6 +1405,12 @@
       {
          "title" : "RabbitMQ-Tutorial-Perl",
          "url" : "https://github.com/oylenshpeegul/RabbitMQ-Tutorial-Perl"
+      }
+   ],
+   "Net-CIDR-Lite" : [
+      {
+         "title" : "Naughty or Nice Networks",
+         "url" : "https://perladvent.org/2022/2022-12-17.html"
       }
    ],
    "Net-EmptyPort" : [
@@ -1511,6 +1589,12 @@
          "url" : "https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/"
       }
    ],
+   "Perl-Dist-APPerl" : [
+      {
+         "title" : "How to wrap a camel?",
+         "url" : "https://perladvent.org/2022/2022-12-25.html"
+      }
+   ],
    "Perl-Metrics-Simple" : [
       {
          "title" : "The Complexity of Perl",
@@ -1557,6 +1641,12 @@
       {
          "title" : "Santa Has Dependencies Too",
          "url" : "https://perladvent.org/2012/2012-12-17.html"
+      }
+   ],
+   "Pithub" : [
+      {
+         "title" : "Santa is on GitHub",
+         "url" : "https://perladvent.org/2022/2022-12-03.html"
       }
    ],
    "Pixie" : [
@@ -2109,6 +2199,12 @@
          "url" : "https://perladvent.org/2006/3/"
       }
    ],
+   "Try-ALRM" : [
+      {
+         "title" : "Wake up! Time to open presents! ",
+         "url" : "https://perladvent.org/2022/2022-12-11.html"
+      }
+   ],
    "Try-Tiny" : [
       {
          "title" : "There is No Try",
@@ -2143,6 +2239,18 @@
       {
          "title" : "It's All There in the Numbers!",
          "url" : "https://perladvent.org/2017/2017-12-13.html"
+      }
+   ],
+   "Util-H2O" : [
+      {
+         "title" : "St. Nick's Reindeers Need H2O!",
+         "url" : "https://perladvent.org/2022/2022-12-06.html"
+      }
+   ],
+   "Value-Diff" : [
+      {
+         "title" : "What did Santa forget?",
+         "url" : "https://perladvent.org/2022/2022-12-09.html"
       }
    ],
    "WWW-Mechanize" : [
@@ -2275,6 +2383,12 @@
          "url" : "https://perladvent.org/2012/2012-12-13.html"
       }
    ],
+   "all" : [
+      {
+         "title" : "Let the Elves Import Your Packages",
+         "url" : "https://perladvent.org/2022/2022-12-14.html"
+      }
+   ],
    "criticism" : [
       {
          "title" : "Happy Holidays You Bastard",
@@ -2329,10 +2443,22 @@
          "url" : "https://perladvent.org/2011/2011-12-03.html"
       }
    ],
+   "pEFL" : [
+      {
+         "title" : "A Perlmas Tree",
+         "url" : "https://perladvent.org/2022/2022-12-08.html"
+      }
+   ],
    "pmtools" : [
       {
          "title" : "Stocking Stuffers",
          "url" : "https://perladvent.org/2009/16/"
+      }
+   ],
+   "relocatable-perl" : [
+      {
+         "title" : "Relocatable Perl",
+         "url" : "https://perladvent.org/2022/2022-12-16.html"
       }
    ],
    "rename" : [
@@ -2345,6 +2471,12 @@
       {
          "title" : "Selfless gifting",
          "url" : "https://perladvent.org/2010/8/"
+      }
+   ],
+   "state" : [
+      {
+         "title" : "The Sleigh odometer",
+         "url" : "https://perladvent.org/2022/2022-12-07.html"
       }
    ],
    "utf8-all" : [
