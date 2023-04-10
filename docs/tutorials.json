@@ -1145,6 +1145,12 @@
          "url" : "https://perladvent.org/2009/24/"
       }
    ],
+   "MIDI-Drummer-Tiny" : [
+      {
+         "title" : "MIDI Drummer Tutorial",
+         "url" : "https://ology.github.io/midi-drummer-tiny-tutorial/"
+      }
+   ],
    "MIME-Base64" : [
       {
          "title" : "TWVycnkgQ2hyaXN0bWFzIDop",
@@ -1399,6 +1405,12 @@
       {
          "title" : "Mu",
          "url" : "https://perladvent.org/2018/2018-12-11.html"
+      }
+   ],
+   "Music-Duration-Partition" : [
+      {
+         "title" : "Music::Duration::Partition Tutorial",
+         "url" : "https://ology.github.io/music-duration-partition-tutorial/"
       }
    ],
    "Net-AMQP-RabbitMQ" : [
